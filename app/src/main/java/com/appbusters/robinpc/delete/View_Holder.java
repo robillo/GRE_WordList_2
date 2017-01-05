@@ -40,8 +40,6 @@ public class View_Holder extends RecyclerView.ViewHolder implements View.OnClick
 
     @Override
     public void onClick(View view) {
-        Intent i = new Intent(context, DetailActivity.class);
-        context.startActivity(i);
         clickListener.onClick(view, getPosition(), false);
     }
 
@@ -49,5 +47,10 @@ public class View_Holder extends RecyclerView.ViewHolder implements View.OnClick
     public boolean onLongClick(View view) {
         clickListener.onClick(view, getPosition(), true);
         return true;
+    }
+
+    public void intent(){
+        Intent i = new Intent(context, DetailActivity.class);
+        context.startActivity(i);
     }
 }

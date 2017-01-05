@@ -23,6 +23,7 @@ public class Recycler_View_Adapter extends RecyclerView.Adapter<View_Holder> {
 
     List<Data> list = Collections.emptyList();
     Context context;
+    Context context2;
 
     public Recycler_View_Adapter(List<Data> list, Context context) {
         this.list = list;
@@ -39,18 +40,21 @@ public class Recycler_View_Adapter extends RecyclerView.Adapter<View_Holder> {
     }
 
     @Override
-    public void onBindViewHolder(View_Holder holder, int position) {
+    public void onBindViewHolder(final View_Holder holder, int position) {
 
         //Use the provided View Holder on the onCreateViewHolder method to populate the current row on the RecyclerView
         holder.word.setText(list.get(position).word);
         holder.meaning.setText(list.get(position).meaning);
+
         animate(holder);
         holder.setClickListener(new ItemClickListener() {
             @Override
             public void onClick(View view, int position, boolean isLongClick) {
                 if (isLongClick) {
+                    holder.intent();
                     Toast.makeText(context, list.get(position).word + " (Long click)", Toast.LENGTH_SHORT).show();
                 } else {
+                    holder.intent();
                     Toast.makeText(context, list.get(position).word, Toast.LENGTH_SHORT).show();
                 }
             }
