@@ -1,5 +1,6 @@
 package com.appbusters.robinpc.delete;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
@@ -21,6 +22,10 @@ public class DetailActivity extends AppCompatActivity {
 
         word = (TextView) findViewById(R.id.word);
         meaning = (TextView) findViewById(R.id.meaning);
+
+        Intent intent = getIntent();
+        word.setText(intent.getStringExtra("word"));
+        meaning.setText(intent.getStringExtra("meaning"));
 
 
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
