@@ -10,6 +10,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
+import android.widget.Toast;
 
 import java.util.Collections;
 import java.util.List;
@@ -40,6 +41,16 @@ public class Recycler_View_Adapter extends RecyclerView.Adapter<View_Holder> {
         holder.word.setText(list.get(position).word);
         holder.meaning.setText(list.get(position).meaning);
         animate(holder);
+        holder.setClickListener(new ItemClickListener() {
+            @Override
+            public void onClick(View view, int position, boolean isLongClick) {
+                if (isLongClick) {
+                    Toast.makeText(context, "#" + position + " - " + list.get(position).word + " (Long click)", Toast.LENGTH_SHORT).show();
+                } else {
+                    Toast.makeText(context, "#" + position + " - " + list.get(position).word, Toast.LENGTH_SHORT).show();
+                }
+            }
+        });
         //animate(holder);
 
     }
