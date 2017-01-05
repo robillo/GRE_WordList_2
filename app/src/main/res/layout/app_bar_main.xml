@@ -28,5 +28,17 @@
 
     </FrameLayout>
 
+    <android.support.design.widget.FloatingActionButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        app:fabSize="normal"
+        app:srcCompat="@android:drawable/ic_menu_share"
+        android:id="@+id/floatingActionButton"
+        app:layout_anchor="@+id/fragment_container"
+        app:layout_anchorGravity="bottom|right"
+        android:layout_gravity="top|left"
+        android:layout_margin="16sp"/>
+
 
 </android.support.design.widget.CoordinatorLayout>
