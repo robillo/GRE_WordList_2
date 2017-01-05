@@ -46,17 +46,18 @@ public class Recycler_View_Adapter extends RecyclerView.Adapter<View_Holder> {
         holder.word.setText(list.get(position).word);
         holder.meaning.setText(list.get(position).meaning);
 
-        word = list.get(position).word;
-        meaning = list.get(position).meaning;
-
         animate(holder);
         holder.setClickListener(new ItemClickListener() {
             @Override
             public void onClick(View view, int position, boolean isLongClick) {
                 if (isLongClick) {
+                    word = list.get(position).word;
+                    meaning = list.get(position).meaning;
                     holder.intent(word, meaning);
                     Toast.makeText(context, list.get(position).word + " (Long click)", Toast.LENGTH_SHORT).show();
                 } else {
+                    word = list.get(position).word;
+                    meaning = list.get(position).meaning;
                     holder.intent(word, meaning);
                     Toast.makeText(context, list.get(position).word, Toast.LENGTH_SHORT).show();
                 }
