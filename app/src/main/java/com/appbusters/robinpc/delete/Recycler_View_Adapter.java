@@ -49,9 +49,9 @@ public class Recycler_View_Adapter extends RecyclerView.Adapter<View_Holder> {
             @Override
             public void onClick(View view, int position, boolean isLongClick) {
                 if (isLongClick) {
-                    Toast.makeText(context, "#" + position + " - " + list.get(position).word + " (Long click)", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(context, list.get(position).word + " (Long click)", Toast.LENGTH_SHORT).show();
                 } else {
-                    Toast.makeText(context, "#" + position + " - " + list.get(position).word, Toast.LENGTH_SHORT).show();
+                    Toast.makeText(context, list.get(position).word, Toast.LENGTH_SHORT).show();
                 }
             }
         });

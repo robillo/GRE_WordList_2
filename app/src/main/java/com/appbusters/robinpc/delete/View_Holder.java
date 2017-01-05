@@ -1,5 +1,9 @@
 package com.appbusters.robinpc.delete;
 
+import android.content.Context;
+import android.content.Intent;
+import android.os.Bundle;
+import android.support.v4.app.FragmentTransaction;
 import android.support.v7.widget.CardView;
 import android.support.v7.widget.RecyclerView;
 import android.view.View;
@@ -15,12 +19,15 @@ public class View_Holder extends RecyclerView.ViewHolder implements View.OnClick
     CardView cardview;
     TextView word;
     TextView meaning;
+    Bundle bundle;
+    Context context;
 
     View_Holder(View itemView) {
         super(itemView);
         itemView.setTag(itemView); //for RV click
         itemView.setOnClickListener(this);
         itemView.setOnLongClickListener(this);
+        context = itemView.getContext();
 
         cardview = (CardView) itemView.findViewById(R.id.cardview);
         word = (TextView) itemView.findViewById(R.id.word);
@@ -33,6 +40,8 @@ public class View_Holder extends RecyclerView.ViewHolder implements View.OnClick
 
     @Override
     public void onClick(View view) {
+        Intent i = new Intent(context, DetailActivity.class);
+        context.startActivity(i);
         clickListener.onClick(view, getPosition(), false);
     }
 
