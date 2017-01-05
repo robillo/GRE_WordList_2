@@ -55,11 +55,13 @@ public class Recycler_View_Adapter extends RecyclerView.Adapter<View_Holder> {
                     meaning = list.get(position).meaning;
                     holder.intent(word, meaning);
                     Toast.makeText(context, list.get(position).word + " (Long click)", Toast.LENGTH_SHORT).show();
+                    notifyAll();
                 } else {
                     word = list.get(position).word;
                     meaning = list.get(position).meaning;
                     holder.intent(word, meaning);
                     Toast.makeText(context, list.get(position).word, Toast.LENGTH_SHORT).show();
+                    notifyAll();
                 }
             }
         });
@@ -95,5 +97,6 @@ public class Recycler_View_Adapter extends RecyclerView.Adapter<View_Holder> {
         final Animation animAnticipateOvershoot = AnimationUtils.loadAnimation(context, R.anim.anticipateovershoot_interpolator);
         viewHolder.itemView.setAnimation(animAnticipateOvershoot);
     }
+
 
 }
