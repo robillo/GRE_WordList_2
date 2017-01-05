@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
     android:id="@+id/content_detail"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
@@ -13,4 +14,39 @@
     tools:context="com.appbusters.robinpc.delete.DetailActivity"
     tools:showIn="@layout/activity_detail">
 
-</RelativeLayout>
+    <TextView
+        android:text="Word:"
+        android:textSize="18sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5sp"
+        android:gravity="center"/>
+    <TextView
+        android:text="abate"
+        android:textSize="27sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5sp"
+        android:gravity="center"
+        android:textColor="#000000"
+        android:id="@+id/word"/>
+
+    <TextView
+        android:text="Meaning:"
+        android:textSize="18sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5sp"
+        android:gravity="center"/>
+
+    <TextView
+        android:text="To decrease, reduce"
+        android:textSize="22sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5sp"
+        android:gravity="center"
+        android:textColor="#000000"
+        android:id="@+id/meaning"/>
+
+</LinearLayout>
