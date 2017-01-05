@@ -4,6 +4,7 @@ package com.appbusters.robinpc.delete;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.support.v7.widget.CardView;
+import android.support.v7.widget.DefaultItemAnimator;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
@@ -38,8 +39,10 @@ public class Group1Fragment extends Fragment {
         recyclerview1.setHasFixedSize(true);
 
         mLayoutManager = new LinearLayoutManager(getActivity());
+
         recyclerview1.setLayoutManager(mLayoutManager);
         Recycler_View_Adapter adapter = new Recycler_View_Adapter(data, getActivity().getApplication());
+
         recyclerview1.setAdapter(adapter);
 
         return v;
