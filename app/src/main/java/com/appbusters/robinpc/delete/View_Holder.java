@@ -40,12 +40,12 @@ public class View_Holder extends RecyclerView.ViewHolder implements View.OnClick
 
     @Override
     public void onClick(View view) {
-        clickListener.onClick(view, getPosition(), false);
+        clickListener.onClick(view, getAdapterPosition(), false);
     }
 
     @Override
     public boolean onLongClick(View view) {
-        clickListener.onClick(view, getPosition(), true);
+        clickListener.onClick(view, getAdapterPosition(), true);
         return true;
     }
 

@@ -46,7 +46,7 @@ public class Recycler_View_Adapter extends RecyclerView.Adapter<View_Holder> {
         holder.word.setText(list.get(position).word);
         holder.meaning.setText(list.get(position).meaning);
 
-        animate(holder);
+        ///animate(holder);
         holder.setClickListener(new ItemClickListener() {
             @Override
             public void onClick(View view, int position, boolean isLongClick) {
@@ -91,10 +91,12 @@ public class Recycler_View_Adapter extends RecyclerView.Adapter<View_Holder> {
         notifyItemRemoved(position);
     }
 
+    /*
     public void animate(RecyclerView.ViewHolder viewHolder) {
         final Animation animAnticipateOvershoot = AnimationUtils.loadAnimation(context, R.anim.anticipateovershoot_interpolator);
         viewHolder.itemView.setAnimation(animAnticipateOvershoot);
     }
+    */
 
 
 }
