@@ -19,6 +19,7 @@ public class DetailActivity extends AppCompatActivity {
 
     private TextView word, meaning, example;
     private SeekBar seekBar;
+    private String editWord;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -37,7 +38,9 @@ public class DetailActivity extends AppCompatActivity {
         meaning = (TextView) findViewById(R.id.meaning);
 
         Intent intent = getIntent();
-        word.setText(intent.getStringExtra("word"));
+        editWord = intent.getStringExtra("word");
+        editWord.replaceAll("[^A-Za-z]", "");
+        word.setText(editWord);
         meaning.setText(intent.getStringExtra("meaning"));
 
         seekBar.setProgress(15);
