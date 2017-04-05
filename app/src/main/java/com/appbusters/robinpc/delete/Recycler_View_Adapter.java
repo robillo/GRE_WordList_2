@@ -1,8 +1,5 @@
 package com.appbusters.robinpc.delete;
 
-/**
- * Created by Robin Pc on 08-08-2016.
- */
 import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;
@@ -36,7 +33,6 @@ public class Recycler_View_Adapter extends RecyclerView.Adapter<View_Holder> {
         View v = LayoutInflater.from(parent.getContext()).inflate(R.layout.row_layout, parent, false);
         View_Holder holder = new View_Holder(v);
         return holder;
-
     }
 
     @Override

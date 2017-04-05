@@ -82,7 +82,7 @@ public class MainActivity extends AppCompatActivity
 
         if (id == R.id.Group1) {
             Group1Fragment fragment=new Group1Fragment();
-            android.support.v4.app.FragmentTransaction fragmentTransaction=getSupportFragmentManager().beginTransaction();
+            android.support.v4.app.FragmentTransaction          fragmentTransaction=getSupportFragmentManager().beginTransaction();
             fragmentTransaction.replace(R.id.fragment_container,fragment);
             fragmentTransaction.addToBackStack(null);
             fragmentTransaction.commit();

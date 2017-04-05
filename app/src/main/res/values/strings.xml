@@ -9,1631 +9,1613 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 
-    <string name="w1">1.abate</string>
-    <string name="m1"> to decrease; reduce</string>
-    <string name="w2">2.abdicate</string>
-    <string name="m2">to give up a position, right, or power</string>
-    <string name="w3">3.aberrant</string>
-    <string name="m3">deviating from what is normal </string>
-    <string name="w4">4.abeyance</string>
-    <string name="m4">temporary suppression or suspension </string>
-    <string name="w5">5.abject</string>
-    <string name="m5">miserable; pitiful </string>
-    <string name="w6">6.abjure</string>
-    <string name="m6">to reject; abandon formally </string>
-    <string name="w7">7.abscission</string>
-    <string name="m7">the act of cutting; the natural separation of a leaf or other part of a plant </string>
-    <string name="w8">8.abscond</string>
-    <string name="m8">to depart secretly</string>
-    <string name="w9">9.abstemious</string>
-    <string name="m9">moderate in appetite</string>
-    <string name="w10">10.abstinence</string>
-    <string name="m10">the giving up of certain pleasures </string>
-    <string name="w11">11.abysmal</string>
-    <string name="m11">very bad </string>
-    <string name="w12">12.accretion</string>
-    <string name="m12">growth in size or increase in amount </string>
-    <string name="w13">13.accrue</string>
-    <string name="m13">to accumulate; grow by additions </string>
-    <string name="w14">14.adamant</string>
-    <string name="m14">uncompromising; unyielding</string>
-    <string name="w15">15.adjunct</string>
-    <string name="m15">something added, attached, or joined </string>
-    <string name="w16">16.admonish</string>
-    <string name="m16">to caution or reprimand</string>
-    <string name="w17">17.adulterate</string>
-    <string name="m17">to corrupt or make impure</string>
-    <string name="w18">18.aesthetic</string>
-    <string name="m18">relating to beauty or the arts</string>
-    <string name="w19">19.affected</string>
-    <string name="m19">pretentious; phony</string>
-    <string name="w20">20.affinity</string>
-    <string name="m20">fondness; liking; similarity</string>
-    <string name="w21">21.aggrandize</string>
-    <string name="m21">to make larger or greater</string>
-    <string name="w22">22.aggregate</string>
-    <string name="m22">amounting to a whole; total</string>
-    <string name="w23">23.alacrity</string>
-    <string name="m23">cheerful willingness; eagerness; speed</string>
-    <string name="w24">24.alchemy</string>
-    <string name="m24">medieval chemical philosophy based on changing metal into gold; a seemingly magical power or process of transmutation</string>
-    <string name="w25">25.allay</string>
-    <string name="m25">to lessen; ease; soothe</string>
-    <string name="w26">26.alleviate</string>
-    <string name="m26">to relieve; improve partially</string>
-    <string name="w27">27.alloy</string>
-    <string name="m27">a combination; a mixture of two or more metals</string>
-    <string name="w28">28.allure</string>
-    <string name="m28">the power to entice by charm</string>
-    <string name="w29">29.amalgamate</string>
-    <string name="m29">to combine into a unified whole</string>
-    <string name="w30">30.ambiguous</string>
-    <string name="m30">unclear or doubtful in meaning</string>
-    <string name="w31">31.ambivalence</string>
-    <string name="m31">the state of having conflicting emotional attitudes</string>
-    <string name="w32">32.ambrosia</string>
-    <string name="m32">something delicious; the food of the gods</string>
-    <string name="w33">33.ameliorate</string>
-    <string name="m33">to improve</string>
-    <string name="w34">34.amenable</string>
-    <string name="m34">agreeable; cooperative; suited</string>
-    <string name="w35">35.amenity</string>
-    <string name="m35">something that increases comfort</string>
-    <string name="w36">36.amulet</string>
-    <string name="m36">ornament worn as a charm against evil spirits</string>
-    <string name="w37">37.anachronism</string>
-    <string name="m37">something out of the proper time</string>
-    <string name="w38">38.analgesic</string>
-    <string name="m38">medication that reduces or eliminates pain</string>
-    <string name="w39">39.analogous</string>
-    <string name="m39">comparable</string>
-    <string name="w40">40.anarchy</string>
-    <string name="m40">absence of government; state of disorder</string>
-    <string name="w41">41.anodyne</string>
-    <string name="m41">something that calms or soothes pain</string>
-    <string name="w42">42.anomalous</string>
-    <string name="m42">irregular; deviating from the norm</string>
-    <string name="w43">43.antecedent</string>
-    <string name="m43">something that comes before</string>
-    <string name="w44">44.antediluvian</string>
-    <string name="m44">prehistoric</string>
-    <string name="w45">45.antipathy</string>
-    <string name="m45">dislike; hostility</string>
-    <string name="w46">46.apathy</string>
-    <string name="m46">indifference</string>
-    <string name="w47">47.apex</string>
-    <string name="m47">the highest point</string>
-    <string name="w48">48.apogee</string>
-    <string name="m48">the point in an orbit most distant from the body being orbited; the highest point</string>
-    <string name="w49">49.apothegm</string>
-    <string name="m49">a terse, witty saying</string>
-    <string name="w50">50.appease</string>
-    <string name="m50">to calm, pacify, placate</string>
-    <string name="w51">51.appellation</string>
-    <string name="m51">name</string>
-    <string name="w52">52.apposite</string>
-    <string name="m52">strikingly appropriate and relevant</string>
-    <string name="w53">53.apprise</string>
-    <string name="m53">to inform</string>
-    <string name="w54">54.approbation</string>
-    <string name="m54">praise, approval</string>
-    <string name="w55">55.appropriate</string>
-    <string name="m55">to take possession of for one\'s own use; confiscate</string>
-    <string name="w56">56.apropos</string>
-    <string name="m56">relevant</string>
-    <string name="w57">57.arabesque</string>
-    <string name="m57">ornate design featuring intertwined curves; a ballet position in which one leg is extended in back while the other supports the weight of the body</string>
-    <string name="w58">58.archeology</string>
-    <string name="m58">the study of material evidence of past human life</string>
-    <string name="w59">59.ardor</string>
-    <string name="m59">great emotion or passion</string>
-    <string name="w60">60.arduous</string>
-    <string name="m60">extremely difficult; laborious</string>
-    <string name="w61">61.argot</string>
-    <string name="m61">a specialized vocabulary used by a group</string>
-    <string name="w62">62.arrest</string>
-    <string name="m62">to stop; to seize</string>
-    <string name="w63">63.artifact</string>
-    <string name="m63">item made by human craft</string>
-    <string name="w64">64.artless</string>
-    <string name="m64">guileless; natural</string>
-    <string name="w65">65.ascetic</string>
-    <string name="m65">one who practices self-denial</string>
-    <string name="w66">66.asperity</string>
-    <string name="m66">severity; harshness; irritability</string>
-    <string name="w67">67.aspersion</string>
-    <string name="m67">slander; false rumor</string>
-    <string name="w68">68.assiduous</string>
-    <string name="m68">diligent; hard-working</string>
-    <string name="w69">69.assuage</string>
-    <string name="m69">to make less severe</string>
-    <string name="w70">70.astringent</string>
-    <string name="m70">harsh; severe</string>
-    <string name="w71">71.asylum</string>
-    <string name="m71">place of refuge or shelter</string>
-    <string name="w72">72.atavism</string>
-    <string name="m72">in biology, the reappearance of a characteristic in an organism after several generations of absence; individual or a part that exhibits atavism; return of a trait after a period of absence</string>
-    <string name="w73">73.attenuate</string>
-    <string name="m73">to weaken</string>
-    <string name="w74">74.audacious</string>
-    <string name="m74">bold; daring</string>
-    <string name="w75">75.austere</string>
-    <string name="m75">stern; unadorned; simple</string>
-    <string name="w76">76.autonomous</string>
-    <string name="m76">self-governing; independent</string>
-    <string name="w77">77.avarice</string>
-    <string name="m77">greed</string>
-    <string name="w78">78.aver</string>
-    <string name="m78">to affirm; declare to be true</string>
-    <string name="w79">79.avocation</string>
-    <string name="m79">secondary occupation</string>
-    <string name="w80">80.avuncular</string>
-    <string name="m80">like an uncle, benevolent and tolerant</string>
-    <string name="w81">81.axiomatic</string>
-    <string name="m81">taken for granted; self-evident truth</string>
+    <string-array name="words">
+    <item>1.abate</item>
+    <item>2.abdicate</item>
+    <item>3.aberrant</item>
+    <item>4.abeyance</item>
+    <item>5.abject</item>
+    <item>6.abjure</item>
+    <item>7.abscission</item>
+    <item>8.abscond</item>
+    <item>9.abstemious</item>
+    <item>10.abstinence</item>
+    <item>11.abysmal</item>
+    <item>12.accretion</item>
+    <item>13.accrue</item>
+    <item>14.adamant</item>
+    <item>15.adjunct</item>
+    <item>16.admonish</item>
+    <item>17.adulterate</item>
+    <item>18.aesthetic</item>
+    <item>19.affected</item>
+    <item>20.affinity</item>
+    <item>21.aggrandize</item>
+    <item>22.aggregate</item>
+    <item>23.alacrity</item>
+    <item>24.alchemy</item>
+    <item>25.allay</item>
+    <item>26.alleviate</item>
+    <item>27.alloy</item>
+    <item>28.allure</item>
+    <item>29.amalgamate</item>
+    <item>30.ambiguous</item>
+    <item>31.ambivalence</item>
+    <item>32.ambrosia</item>
+    <item>33.ameliorate</item>
+    <item>34.amenable</item>
+    <item>35.amenity</item>
+    <item>36.amulet</item>
+    <item>37.anachronism</item>
+    <item>38.analgesic</item>
+    <item>39.analogous</item>
+    <item>40.anarchy</item>
+    <item>41.anodyne</item>
+    <item>42.anomalous</item>
+    <item>43.antecedent</item>
+    <item>44.antediluvian</item>
+    <item>45.antipathy</item>
+    <item>46.apathy</item>
+    <item>47.apex</item>
+    <item>48.apogee</item>
+    <item>49.apothegm</item>
+    <item>50.appease</item>
+    <item>51.appellation</item>
+    <item>52.apposite</item>
+    <item>53.apprise</item>
+    <item>54.approbation</item>
+    <item>55.appropriate</item>
+    <item>56.apropos</item>
+    <item>57.arabesque</item>
+    <item>58.archeology</item>
+    <item>59.ardor</item>
+    <item>60.arduous</item>
+    <item>61.argot</item>
+    <item>62.arrest</item>
+    <item>63.artifact</item>
+    <item>64.artless</item>
+    <item>65.ascetic</item>
+    <item>66.asperity</item>
+    <item>67.aspersion</item>
+    <item>68.assiduous</item>
+    <item>69.assuage</item>
+    <item>70.aitement</item>
+    <item>71.asylum</item>
+    <item>72.atavism</item>
+    <item>73.attenuate</item>
+    <item>74.audacious</item>
+    <item>75.austere</item>
+    <item>76.autonomous</item>
+    <item>77.avarice</item>
+    <item>78.aver</item>
+    <item>79.avocation</item>
+    <item>80.avuncular</item>
+    <item>81.axiomatic</item>
+    <item>82.bacchanalian</item>
+    <item>83.banal</item>
+    <item>84.banter</item>
+    <item>85.bard</item>
+    <item>86.bawdy</item>
+    <item>87.beatify</item>
+    <item>88.bedizen</item>
+    <item>89.behemoth</item>
+    <item>90.belie</item>
+    <item>91.beneficent</item>
+    <item>92.bifurcate</item>
+    <item>93.blandishment</item>
+    <item>94.blasé</item>
+    <item>95.bolster</item>
+    <item>96.bombastic</item>
+    <item>97.boorish</item>
+    <item>98.bovine</item>
+    <item>99.brazen</item>
+    <item>100.broach</item>
+    <item>101.bucolic</item>
+    <item>102.burgeon</item>
+    <item>103.burnish</item>
+    <item>104.buttress</item>
+    <item>105.cacophonous</item>
+    <item>106.cadge</item>
+    <item>107.callous</item>
+    <item>108.calumny</item>
+    <item>109.canard</item>
+    <item>110.canon</item>
+    <item>111.cant</item>
+    <item>112.cantankerous</item>
+    <item>113.capricious</item>
+    <item>114.captious</item>
+    <item>115.cardinal</item>
+    <item>116.carnal</item>
+    <item>117.carping</item>
+    <item>118.cartography</item>
+    <item>119.caste</item>
+    <item>120.castigation</item>
+    <item>121.cataclysm</item>
+    <item>122.catalyst</item>
+    <item>123.categorical</item>
+    <item>124.caucus</item>
+    <item>125.causal</item>
+    <item>126.caustic</item>
+    <item>127.celestial</item>
+    <item>128.centrifugal</item>
+    <item>129.centripetal</item>
+    <item>130.champion</item>
+    <item>131.chasten</item>
+    <item>132.chicanery</item>
+    <item>133.chivalry</item>
+    <item>134.churlish</item>
+    <item>135.circuitous</item>
+    <item>136.clairvoyant</item>
+    <item>137.clamor</item>
+    <item>138.clique</item>
+    <item>139.cloister</item>
+    <item>140.coagulate</item>
+    <item>141.coalesce</item>
+    <item>142.coda</item>
+    <item>143.codify</item>
+    <item>144.cognizant</item>
+    <item>145.collage</item>
+    <item>146.commensurate</item>
+    <item>147.compendium</item>
+    <item>148.complacent</item>
+    <item>149.complaisant</item>
+    <item>150.complement</item>
+    <item>151.compliant</item>
+    <item>152.compunction</item>
+    <item>153.concave</item>
+    <item>154.conciliatory</item>
+    <item>155.concoct</item>
+    <item>156.concomitant</item>
+    <item>157.condone</item>
+    <item>158.confound</item>
+    <item>159.congenial</item>
+    <item>160.conjugal</item>
+    <item>161.connoisseur</item>
+    <item>162.conscript</item>
+    <item>163.consecrate</item>
+    <item>164.contend</item>
+    <item>165.contentious</item>
+    <item>166.contiguous</item>
+    <item>167.continence</item>
+    <item>168.contrite</item>
+    <item>169.contumacious</item>
+    <item>170.conundrum</item>
+    <item>171.convention</item>
+    <item>172.converge</item>
+    <item>173.convex</item>
+    <item>174.convivial</item>
+    <item>175.convoluted</item>
+    <item>176.copious</item>
+    <item>177.coquette</item>
+    <item>178.cornucopia</item>
+    <item>179.cosmology</item>
+    <item>180.covert</item>
+    <item>181.covetous</item>
+    <item>182.cozen</item>
+    <item>183.craven</item>
+    <item>184.credence</item>
+    <item>185.credo</item>
+    <item>186.daunt</item>
+    <item>187.dearth</item>
+    <item>188.debauchery</item>
+    <item>189.decorum</item>
+    <item>190.defame</item>
+    <item>191.default</item>
+    <item>192.deference</item>
+    <item>193.defunct</item>
+    <item>194.delineate</item>
+    <item>195.demographic</item>
+    <item>196.demotic</item>
+    <item>19.demur</item>
+    <item>198.denigrate</item>
+    <item>199.denizen</item>
+    <item>200.denouement</item>
+    <item>201.deride</item>
+    <item>202.derivative</item>
+    <item>203.desiccate</item>
+    <item>204.desuetude</item>
+    <item>205.desultory</item>
+    <item>206.deterrent</item>
+    <item>207.detraction</item>
+    <item>208.diaphanous</item>
+    <item>209.diatribe</item>
+    <item>210.dichotomy</item>
+    <item>211.diffidence</item>
+    <item>212.diffuse</item>
+    <item>213.digression</item>
+    <item>214.dirge</item>
+    <item>215.disabuse</item>
+    <item>216.discerning</item>
+    <item>217.discomfit</item>
+    <item>218.discordant</item>
+    <item>219.discredit</item>
+    <item>220.discrepancy</item>
+    <item>221.discrete</item>
+    <item>222.discretion</item>
+    <item>223.disingenuous</item>
+    <item>224.disinterested</item>
+    <item>225.disjointed</item>
+    <item>226.dismiss</item>
+    <item>227.disparage</item>
+    <item>228.disparate</item>
+    <item>229.dissemble</item>
+    <item>230.disseminate</item>
+    <item>231.dissident</item>
+    <item>232.dissolution</item>
+    <item>233.dissonance</item>
+    <item>234.distend</item>
+    <item>235distill</item>
+    <item>236distrait</item>
+    <item>237.diverge</item>
+    <item>238.divest</item>
+    <item>239.divulge</item>
+    <item>240.doctrinaire</item>
+    <item>241.document</item>
+    <item>242.doggerel</item>
+    <item>243.dogmatic</item>
+    <item>244.dormant</item>
+    <item>245.dross</item>
+    <item>246.dupe</item>
+    <item>247.ebullient</item>
+    <item>248.eclectic</item>
+    <item>249.effervescence</item>
+    <item>250.effete</item>
+    <item>251.efficacy</item>
+    <item>252.effrontery</item>
+    <item>253.egoism</item>
+    <item>254.egotistical</item>
+    <item>255.elegy</item>
+    <item>256.elicit</item>
+    <item>257.elixir</item>
+    <item>258.Elysian</item>
+    <item>259.emaciated</item>
+    <item>260.embellish</item>
+    <item>261.emollient</item>
+    <item>262.empirical</item>
+    <item>263.emulate</item>
+    <item>264.encomium</item>
+    <item>265.endemic</item>
+    <item>266.enervate</item>
+    <item>267.engender</item>
+    <item>268.enhance</item>
+    <item>269.entomology</item>
+    <item>270.enunciate</item>
+    <item>271.ephemeral</item>
+    <item>272.epistemology</item>
+    <item>273.equable</item>
+    <item>274.equanimity</item>
+    <item>275.equivocate</item>
+    <item>276.errant</item>
+    <item>277.erudite</item>
+    <item>278.esoteric</item>
+    <item>279.essay</item>
+    <item>280.estimable</item>
+    <item>281.ethnocentric</item>
+    <item>282.etiology</item>
+    <item>283.etymology</item>
+    <item>284.eugenics</item>
+    <item>285.eulogy</item>
+    <item>286.euphemism</item>
+    <item>287.euphoria</item>
+    <item>288.euthanasia</item>
+    <item>289.evince</item>
+    <item>290.evocative</item>
+    <item>291.exacerbate</item>
+    <item>292.exact</item>
+    <item>293.exculpate</item>
+    <item>294.execrable</item>
+    <item>295.exhort</item>
+    <item>296.exigency</item>
+    <item>297.existential</item>
+    <item>298.exorcise</item>
+    <item>299.expatiate</item>
+    <item>300.expatriate</item>
+    <item>301.expiate</item>
+    <item>302.explicate</item>
+    <item>303.expository</item>
+    <item>304.extant</item>
+    <item>extemporaneous</item>
+    <item>306.extirpate</item>
+    <item>307.extraneous</item>
+    <item>308.extrapolation</item>
+    <item>309.extrinsic</item>
+    <item>310.facetious</item>
+    <item>311.facilitate</item>
+    <item>312.factotum</item>
+    <item>313.fallacious</item>
+    <item>314.fallow</item>
+    <item>315.fatuous</item>
+    <item>316.fauna</item>
+    <item>317.fawning</item>
+    <item>318.felicitous</item>
+    <item>319.feral</item>
+    <item>320.fervor</item>
+    <item>321.fetid</item>
+    <item>322.fetter</item>
+    <item>323.fiat</item>
+    <item>324.fidelity</item>
+    <item>325.filibuster</item>
+    <item>326.finesse</item>
+    <item>327.fissure</item>
+    <item>328.flag</item>
+    <item>329.fledgling</item>
+    <item>330.flora</item>
+    <item>331.florid</item>
+    <item>332.flourish</item>
+    <item>333.flout</item>
+    <item>334.flux</item>
+    <item>335.foment</item>
+    <item>336.forbearance</item>
+    <item>337.forestall</item>
+    <item>338.formidable</item>
+    <item>339.forswear</item>
+    <item>340.founder</item>
+    <item>341.fracas</item>
+    <item>342.fractious</item>
+    <item>343.fresco</item>
+    <item>344.frieze</item>
+    <item>345.froward</item>
+    <item>346.frugality</item>
+    <item>347.fulminate</item>
+    <item>348.fulsome</item>
+    <item>349.fusion</item>
+    <item>350.futile</item>
+    <item>351.gainsay</item>
+    <item>352.gambol</item>
+    <item>353.garrulous</item>
+    <item>354.gauche</item>
+    <item>355.geniality</item>
+    <item>356.gerrymander</item>
+    <item>357.glib</item>
+    <item>358.goad</item>
+    <item>359.gossamer</item>
+    <item>360.gouge</item>
+    <item>361.>grandiloquent</item>
+    <item>362.gregarious</item>
+    <item>363.grouse</item>
+    <item>364.guileless</item>
+    <item>365.guise</item>
+    <item>366.gullible</item>
+    <item>367.gustatory</item>
+    <item>368.halcyon</item>
+    <item>369.hallowed</item>
+    <item>370harangue</item>
+    <item>371.harrowing</item>
+    <item>372.herbivorous</item>
+    <item>373.hermetic</item>
+    <item>374.heterodox</item>
+    <item>35.hieroglyphics</item>
+    <item>376.hirsute</item>
+    <item>377.histrionic</item>
+    <item>378.homeostasis</item>
+    <item>379.homily</item>
+    <item>380.homogeneous</item>
+    <item>381.hyperbole</item>
+    <item>382.iconoclastic</item>
+    <item>383.idolatry</item>
+    <item>384.igneous</item>
+    <item>385.imbroglio</item>
+    <item>386.immutable</item>
+    <item>387.impair to</item>
+    <item>388.impassive</item>
+    <item>389.impecunious</item>
+    <item>390.impede</item>
+    <item>391.impermeable</item>
+    <item>392.imperturbable</item>
+    <item>393.impervious</item>
+    <item>394.impinge</item>
+    <item>395.implacable</item>
+    <item>396.implausible</item>
+    <item>397.implicit</item>
+    <item>398.implode</item>
+    <item>399.imprecation</item>
+    <item>400.impute</item>
+    <item>401.inadvertently</item>
+    <item>402.incarnate</item>
+    <item>403.inchoate</item>
+    <item>404.incongruity</item>
+    <item>405.inconsequential</item>
+    <item>406.incorporate</item>
+    <item>40.incursion</item>
+    <item>408.indeterminate</item>
+    <item>409.indigence</item>
+    <item>410.indolent</item>
+    <item>411.ineluctable</item>
+    <item>412.inert</item>
+    <item>413.ingenuous</item>
+    <item>414.inherent</item>
+    <item>415.innocuous</item>
+    <item>416.insensible</item>
+    <item>41.insinuate</item>
+    <item>418.insipid</item>
+    <item>419.insouciant</item>
+    <item>420.insularity</item>
+    <item>421.insuperable</item>
+    <item>422.intangible</item>
+    <item>423.interdict</item>
+    <item>424.internecine</item>
+    <item>425.interpolate</item>
+    <item>426.interregnum</item>
+    <item>427.intimate</item>
+    <item>428.intractable</item>
+    <item>429.intransigence</item>
+    <item>430.introspective</item>
+    <item>431.inundate</item>
+    <item>432.inured</item>
+    <item>433.invective</item>
+    <item>434.inveigh</item>
+    <item>435.inveigle</item>
+    <item>436.inveterate</item>
+    <item>437.invidious</item>
+    <item>438.irascible</item>
+    <item>439.irresolute</item>
+    <item>440.itinerant</item>
+    <item>441.itinerary</item>
+    <item>442.jaundiced</item>
+    <item>443.jibe</item>
+    <item>444.jocose</item>
+    <item>445.juggernaut</item>
+    <item>446.junta</item>
+    <item>447.juxtapose</item>
+    <item>448.kudos</item>
+    <item>449.labile</item>
+    <item>450.laconic</item>
+    <item>451.lambaste</item>
+    <item>452.lascivious</item>
+    <item>453.lassitude</item>
+    <item>454.latent</item>
+    <item>455.laud</item>
+    <item>456.lethargic</item>
+    <item>457.levee</item>
+    <item>458.levity</item>
+    <item>459.liberal</item>
+    <item>460.libertine</item>
+    <item>461.libido</item>
+    <item>462.Lilliputian</item>
+    <item>463.limn</item>
+    <item>464.limpid</item>
+    <item>465.linguistic</item>
+    <item>466.litany</item>
+    <item>467.literati</item>
+    <item>468.litigation</item>
+    <item>469.log</item>
+    <item>470.loquacious</item>
+    <item>471.lucid</item>
+    <item>472.lucre</item>
+    <item>473.luminous</item>
+    <item>474.lustrous</item>
+    <item>475.Machiavellian</item>
+    <item>476.machinations</item>
+    <item>477.maelstrom</item>
+    <item>478.magnanimity</item>
+    <item>479.malign</item>
+    <item>480.malinger</item>
+    <item>481.malleable</item>
+    <item>482.maverick</item>
+    <item>483.megalomania</item>
+    <item>484.menagerie</item>
+    <item>485.mendacious</item>
+    <item>486.mendicant</item>
+    <item>487.meretricious</item>
+    <item>488.mesmerize</item>
+    <item>489.metamorphosis</item>
+    <item>490.metaphysics</item>
+    <item>491.meteorological</item>
+    <item>492.meticulous</item>
+    <item>493.mettle</item>
+    <item>494.mettlesome</item>
+    <item>495.microcosm</item>
+    <item>496.militate</item>
+    <item>497.minatory</item>
+    <item>498.minuscule</item>
+    <item>499.minutia</item>
+    <item>500.misanthrope</item>
+    <item>501.miscellany</item>
+    <item>502.miscreant</item>
+    <item>503.misogynist</item>
+    <item>504.mitigate</item>
+    <item>505.mnemonic</item>
+    <item>506.modicum</item>
+    <item>507.mollify</item>
+    <item>508.monolithic</item>
+    <item>509.morose</item>
+    <item>510.motley</item>
+    <item>511.multifarious</item>
+    <item>512.mundane</item>
+    <item>513.necromancy</item>
+    <item>514.negate</item>
+    <item>515.neologism</item>
+    <item>516.neophyte</item>
+    <item>517.nexus</item>
+    <item>518.nonplussed</item>
+    <item>519.nostalgia</item>
+    <item>520.nostrum</item>
+    <item>521.nugatory</item>
+    <item>522.obdurate</item>
+    <item>523.obsequious</item>
+    <item>524.obsequy</item>
+    <item>525.obviate</item>
+    <item>526.occlude</item>
+    <item>527.occult</item>
+    <item>528.odyssey</item>
+    <item>529.officious</item>
+    <item>530.olfactory</item>
+    <item>531.oligarchy</item>
+    <item>532.onerous</item>
+    <item>533.onomatopoeia</item>
+    <item>534.opprobrium</item>
+    <item>535.ornithologist</item>
+    <item>536.oscillate</item>
+    <item>537.ostentatious</item>
+    <item>538.overweening</item>
+    <item>539.paean</item>
+    <item>540.paleontology</item>
+    <item>541.pallid</item>
+    <item>542.panegyric</item>
+    <item>543.paragon</item>
+    <item>544.partisan</item>
+    <item>545.pathological</item>
+    <item>546.patois</item>
+    <item>547.paucity</item>
+    <item>548.pedantic</item>
+    <item>549.pellucid</item>
+    <item>550.penchant</item>
+    <item>551.penury</item>
+    <item>552.peregrination</item>
+    <item>553.peremptory</item>
+    <item>554.perennial</item>
+    <item>555.perfidious</item>
+    <item>556.perfunctory</item>
+    <item>557.perigee</item>
+    <item>558.permeable</item>
+    <item>559.perturb</item>
+    <item>560.pervasive</item>
+    <item>561.petulant</item>
+    <item>562.phlegmatic</item>
+    <item>563.phoenix</item>
+    <item>564.physiognomy</item>
+    <item>565.piety</item>
+    <item>566.piquant</item>
+    <item>567.pique</item>
+    <item>568.placate</item>
+    <item>569.placid</item>
+    <item>570.plaintive</item>
+    <item>571.plasticity</item>
+    <item>572.platitude</item>
+    <item>573.platonic</item>
+    <item>574.plethora</item>
+    <item>575.plumb</item>
+    <item>576.plummet</item>
+    <item>577.plutocracy</item>
+    <item>578.porous</item>
+    <item>579.poseur</item>
+    <item>580.pragmatic</item>
+    <item>581.prate</item>
+    <item>582.prattle</item>
+    <item>583.preamble</item>
+    <item>584.precarious</item>
+    <item>585.precept</item>
+    <item>586.precipitate</item>
+    <item>587.precipitate</item>
+    <item>588.precursor</item>
+    <item>589.preempt</item>
+    <item>590.prehensile</item>
+    <item>591.premonition</item>
+    <item>592.presage</item>
+    <item>593.presumptuous</item>
+    <item>594.preternatural</item>
+    <item>595.prevaricate</item>
+    <item>596.primordial</item>
+    <item>597.pristine</item>
+    <item>598.probity</item>
+    <item>599.problematic</item>
+    <item>600.prodigal</item>
+    <item>601.profound</item>
+    <item>602.prohibitive</item>
+    <item>603.proliferate</item>
+    <item>604.propensity</item>
+    <item>605.propitiate</item>
+    <item>606.propriety</item>
+    <item>607.proscribe</item>
+    <item>608.provident</item>
+    <item>609.puissant</item>
+    <item>610.punctilious</item>
+    <item>611.pungent</item>
+    <item>612.purport</item>
+    <item>613.pusillanimous</item>
+    <item>614.quagmire</item>
+    <item>615.quail</item>
+    <item>616.qualified</item>
+    <item>617.qualm</item>
+    <item>618.query</item>
+    <item>619.quibble</item>
+    <item>620.quiescent</item>
+    <item>621.quorum</item>
+    <item>622.raconteur</item>
+    <item>623.0rail</item>
+    <item>624.raimen</item>
+    <item>625.ramification</item>
+    <item>626.rarefied</item>
+    <item>627.rationale</item>
+    <item>628.rebu</item>
+    <item>629.recalcitrant</item>
+    <item>630.recant</item>
+    <item>631.recluse</item>
+    <item>632.recondite</item>
+    <item>633.redoubtable</item>
+    <item>634.refractory</item>
+    <item>635.refulgent</item>
+    <item>636.refute</item>
+    <item>637.regale</item>
+    <item>638.relegate</item>
+    <item>639.remonstrate</item>
+    <item>640.renege</item>
+    <item>641.reparation</item>
+    <item>642.repine</item>
+    <item>643.reprise</item>
+    <item>644.reproach</item>
+    <item>645.reprobate</item>
+    <item>646.repudiate</item>
+    <item>647.rescind</item>
+    <item>648.resolution</item>
+    <item>649.resolve</item>
+    <item>650.reticent</item>
+    <item>651.reverent</item>
+    <item>652.riposte</item>
+    <item>653.rococo</item>
+    <item>654.rubric</item>
+    <item>655.rue</item>
+    <item>656.ruse</item>
+    <item>657.sage</item>
+    <item>658.salacious</item>
+    <item>659.salubrious</item>
+    <item>660.salutary</item>
+    <item>661.sanction</item>
+    <item>662.sardonic</item>
+    <item>663.sartorial</item>
+    <item>664.satiate</item>
+    <item>665.saturate</item>
+    <item>666.saturnine</item>
+    <item>667.satyr</item>
+    <item>668.savor</item>
+    <item>669.schematic</item>
+    <item>670.secrete</item>
+    <item>671.sedition</item>
+    <item>672.sedulous</item>
+    <item>673.seismic</item>
+    <item>674.sensual</item>
+    <item>675.sensuous</item>
+    <item>676.sentient</item>
+    <item>677.servile</item>
+    <item>678.sextant</item>
+    <item>679.shard</item>
+    <item>680.sidereal</item>
+    <item>681.simian</item>
+    <item>682.simile</item>
+    <item>683.sinecure</item>
+    <item>684.singular</item>
+    <item>685.sinuous</item>
+    <item>686.skeptic</item>
+    <item>687.sobriety</item>
+    <item>688.sodden</item>
+    <item>689.solicitous</item>
+    <item>690.soliloquy</item>
+    <item>691.solvent</item>
+    <item>692.somatic</item>
+    <item>693.soporific</item>
+    <item>694.sordid</item>
+    <item>695.specious</item>
+    <item>696.spectrum</item>
+    <item>697.spendthrift</item>
+    <item>698.sporadic</item>
+    <item>699.squalor</item>
+    <item>700.staccato</item>
+    <item>701.stanch</item>
+    <item>702.stentorian</item>
+    <item>703.stigma</item>
+    <item>704.stint</item>
+    <item>705.stipulate</item>
+    <item>706.stolid</item>
+    <item>707.stratified</item>
+    <item>708.striated</item>
+    <item>709.stricture</item>
+    <item>710.strident</item>
+    <item>711.strut</item>
+    <item>712.stultify</item>
+    <item>713.stupefy</item>
+    <item>714.stygian</item>
+    <item>715.subpoena</item>
+    <item>716.subside</item>
+    <item>717.substantiate</item>
+    <item>718.substantive</item>
+    <item>719.subsume</item>
+    <item>720.subversive</item>
+    <item>721.succor</item>
+    <item>722.suffrage</item>
+    <item>723.sundry</item>
+    <item>724.supersede</item>
+    <item>725.supine</item>
+    <item>726.supplant</item>
+    <item>727.suppliant</item>
+    <item>728.supplicant</item>
+    <item>729.supposition</item>
+    <item>730.syllogism</item>
+    <item>731.sylvan</item>
+    <item>732.tacit</item>
+    <item>733.talisman</item>
+    <item>734.tangential</item>
+    <item>735.tautology</item>
+    <item>736.taxonomy</item>
+    <item>737.tenet</item>
+    <item>738.tenuous</item>
+    <item>739.terrestrial</item>
+    <item>740.theocracy</item>
+    <item>741.thespian</item>
+    <item>742.timbre</item>
+    <item>743.tirade</item>
+    <item>744.toady</item>
+    <item>745.tome</item>
+    <item>746.torpor</item>
+    <item>747.torque</item>
+    <item>748.tortuous</item>
+    <item>749.tout</item>
+    <item>750.tractable</item>
+    <item>751.transgression</item>
+    <item>752.transient</item>
+    <item>753.translucent</item>
+    <item>754.travail</item>
+    <item>755.travesty</item>
+    <item>756.treatise</item>
+    <item>757.tremulous</item>
+    <item>758.trepidation</item>
+    <item>759.truculence</item>
+    <item>760.tryst</item>
+    <item>761.tumid</item>
+    <item>762.turbid</item>
+    <item>763.turgid</item>
+    <item>764.tutelary</item>
+    <item>765.uncanny</item>
+    <item>766.undulating</item>
+    <item>767.unfeigned</item>
+    <item>768.untenable</item>
+    <item>769.untoward</item>
+    <item>770.usury</item>
+    <item>771.vacillate</item>
+    <item>772.vacuous</item>
+    <item>773.valedictory</item>
+    <item>774.vapid</item>
+    <item>775.variegated</item>
+    <item>776.vaunt</item>
+    <item>777.venal</item>
+    <item>778.vendetta</item>
+    <item>779.venerate</item>
+    <item>780.veracious</item>
+    <item>781.verbose</item>
+    <item>782.vertigo</item>
+    <item>783.vexation</item>
+    <item>784.viable</item>
+    <item>785.vindictive</item>
+    <item>786.virtuoso</item>
+    <item>787.visage</item>
+    <item>788.viscous</item>
+    <item>789.vitiate</item>
+    <item>790.vituperative</item>
+    <item>791.vivisection</item>
+    <item>792.vogue</item>
+    <item>793.volatile</item>
+    <item>794.vortex</item>
+    <item>795.warranted</item>
+    <item>796.wary</item>
+    <item>797.welter</item>
+    <item>798.whimsical</item>
+    <item>799.wistful</item>
+    <item>800.zealot</item>
+</string-array>
 
-
-    <string name="w82">82.bacchanalian</string>
-    <string name="m82">pertaining to riotous or drunken festivity; pertaining to revelry</string>
-    <string name="w83">83.banal</string>
-    <string name="m83">commonplace; trite</string>
-    <string name="w84">84.banter</string>
-    <string name="m84">playful conversation</string>
-    <string name="w85">85.bard</string>
-    <string name="m85">poet</string>
-    <string name="w86">86.bawdy</string>
-    <string name="m86">obscene</string>
-    <string name="w87">87.beatify</string>
-    <string name="m87">to sanctify; to bless; to ascribe a virtue to</string>
-    <string name="w88">88.bedizen</string>
-    <string name="m88">to dress in a vulgar, showy manner</string>
-    <string name="w89">89.behemoth</string>
-    <string name="m89">huge creature; anything very large and powerful</string>
-    <string name="w90">90.belie</string>
-    <string name="m90">to contradict; misrepresent; give a false impression</string>
-    <string name="w91">91.beneficent</string>
-    <string name="m91">kindly; doing good</string>
-    <string name="w92">92.bifurcate</string>
-    <string name="m92">to divide into two parts</string>
-    <string name="w93">93.blandishment</string>
-    <string name="m93">flattery</string>
-    <string name="w94">94.blasé</string>
-    <string name="m94">bored because of frequent indulgence; unconcerned</string>
-    <string name="w95">95.bolster</string>
-    <string name="m95">to give a boost to; prop up; support</string>
-    <string name="w96">96.bombastic</string>
-    <string name="m96">pompous; using inflated language</string>
-    <string name="w97">97.boorish</string>
-    <string name="m97">rude; insensitive</string>
-    <string name="w98">98.bovine</string>
-    <string name="m98">cow like</string>
-    <string name="w99">99.brazen</string>
-    <string name="m99">bold; shameless</string>
-    <string name="w100">100.broach</string>
-    <string name="m100">to mention for the first time</string>
-    <string name="w101">101.bucolic</string>
-    <string name="m101">characteristic of the countryside; rustic; pastoral</string>
-    <string name="w102">102.burgeon</string>
-    <string name="m102">to grow and flourish</string>
-    <string name="w103">103.burnish</string>
-    <string name="m103">to polish</string>
-    <string name="w104">104.buttress</string>
-    <string name="m104">to reinforce; support</string>
-
-    <string name="w105">105.cacophonous</string>
-    <string name="m105">unpleasant or harsh-sounding </string>
-    <string name="w106">106.cadge</string>
-    <string name="m106">to beg; sponge</string>
-    <string name="w107">107.callous</string>
-    <string name="m107">thick-skinned; insensitive</string>
-    <string name="w108">108.calumny</string>
-    <string name="m108">false and malicious accusation; slander</string>
-    <string name="w109">109.canard</string>
-    <string name="m109">false; deliberately misleading story</string>
-    <string name="w110">110.canon</string>
-    <string name="m110">an established set of principles; a basis or standard for judgment; a group of literary works</string>
-    <string name="w111">111.cant</string>
-    <string name="m111">insincere talk; language of a particular group</string>
-    <string name="w112">112.cantankerous</string>
-    <string name="m112">irritable; ill-humored</string>
-    <string name="w113">113.capricious</string>
-    <string name="m113">fickle</string>
-    <string name="w114">114.captious</string>
-    <string name="m114">faultfinding; intended to entrap, as in an argument</string>
-    <string name="w115">115.cardinal</string>
-    <string name="m115">of foremost importance</string>
-    <string name="w116">116.carnal</string>
-    <string name="m116">of the flesh or body; related to physical appetites</string>
-    <string name="w117">117.carping</string>
-    <string name="m117">to find fault; complain</string>
-    <string name="w118">118.cartography</string>
-    <string name="m118">science of making maps</string>
-    <string name="w119">119.caste</string>
-    <string name="m119">any of the hereditary social classes in Hindu society; social stratification</string>
-    <string name="w120">120.castigation</string>
-    <string name="m120">punishment; chastisement; criticism</string>
-    <string name="w121">121.cataclysm</string>
-    <string name="m121">a violent upheaval that causes great destruction and change</string>
-    <string name="w122">122.catalyst</string>
-    <string name="m122">something that causes change</string>
-    <string name="w123">123.categorical</string>
-    <string name="m123">absolute; without exception</string>
-    <string name="w124">124.caucus</string>
-    <string name="m124">smaller group within an organization</string>
-    <string name="w125">125.causal</string>
-    <string name="m125">involving a cause</string>
-    <string name="w126">126.caustic</string>
-    <string name="m126">burning; stinging; causing corrosion</string>
-    <string name="w127">127.celestial</string>
-    <string name="m127">concerned with sky or heavens; sublime</string>
-    <string name="w128">128.centrifugal</string>
-    <string name="m128">moving away from a center</string>
-    <string name="w129">129.centripetal</string>
-    <string name="m129">moving or directed toward a center</string>
-    <string name="w130">130.champion</string>
-    <string name="m130">to defend or support</string>
-    <string name="w131">131.chasten</string>
-    <string name="m131">to correct by punishment or reproof; to restrain or subdue</string>
-    <string name="w132">132.chicanery</string>
-    <string name="m132">trickery; fraud</string>
-    <string name="w133">133.chivalry</string>
-    <string name="m133">the qualities idealized by knighthood such as bravery and gallantry toward women</string>
-    <string name="w134">134.churlish</string>
-    <string name="m134">rude; boorish</string>
-    <string name="w135">135.circuitous</string>
-    <string name="m135">roundabout</string>
-    <string name="w136">136.clairvoyant</string>
-    <string name="m136">one who can predict the future; psychic</string>
-    <string name="w137">137.clamor</string>
-    <string name="m137">noisy outcry</string>
-    <string name="w138">138.clique</string>
-    <string name="m138">a small, exclusive group</string>
-    <string name="w139">139.cloister</string>
-    <string name="m139">to confine; seclude</string>
-    <string name="w140">140.coagulate</string>
-    <string name="m140">thicken; congeal</string>
-    <string name="w141">141.coalesce</string>
-    <string name="m141">to cause to become one</string>
-    <string name="w142">142.coda</string>
-    <string name="m142">concluding part of a literary or musical composition; something that summarizes or concludes</string>
-    <string name="w143">143.codify</string>
-    <string name="m143">to systematize</string>
-    <string name="w144">144.cognizant</string>
-    <string name="m144">informed; conscious; aware</string>
-    <string name="w145">145.collage</string>
-    <string name="m145">artistic composition of materials pasted over a surface; an assemblage of diverse elements</string>
-    <string name="w146">146.commensurate</string>
-    <string name="m146">proportional</string>
-    <string name="w147">147.compendium</string>
-    <string name="m147">brief, comprehensive summary</string>
-    <string name="w148">148.complacent</string>
-    <string name="m148">self-satisfied</string>
-    <string name="w149">149.complaisant</string>
-    <string name="m149">overly polite; willingness to comply with the wishes of others</string>
-    <string name="w150">150.complement</string>
-    <string name="m150">something that completes or makes up a whole</string>
-    <string name="w151">151.compliant</string>
-    <string name="m151">yielding</string>
-    <string name="w152">152.compunction</string>
-    <string name="m152">uneasiness caused by guilt</string>
-    <string name="w153">153.concave</string>
-    <string name="m153">curving inward</string>
-    <string name="w154">154.conciliatory</string>
-    <string name="m154">overcoming distrust or hostility</string>
-    <string name="w155">155.concoct</string>
-    <string name="m155">to invent</string>
-    <string name="w156">156.concomitant</string>
-    <string name="m156">existing concurrently</string>
-    <string name="w157">157.condone</string>
-    <string name="m157">to overlook voluntarily; forgive</string>
-    <string name="w158">158.confound</string>
-    <string name="m158">to baffle; perplex; mix up</string>
-    <string name="w159">159.congenial</string>
-    <string name="m159">similar in tastes and habits; friendly; suited to</string>
-    <string name="w160">160.conjugal</string>
-    <string name="m160">pertaining to marriage agreement</string>
-    <string name="w161">161.connoisseur</string>
-    <string name="m161">expert in matters of taste; expert knowledge or training</string>
-    <string name="w162">162.conscript</string>
-    <string name="m162">a person compulsorily enrolled for military service</string>
-    <string name="w163">163.consecrate</string>
-    <string name="m163">to declare sacred</string>
-    <string name="w164">164.contend</string>
-    <string name="m164">to assert</string>
-    <string name="w165">165.contentious</string>
-    <string name="m165">quarrelsome; causing quarrels</string>
-    <string name="w166">166.contiguous</string>
-    <string name="m166">touching; neighboring; connecting without a break</string>
-    <string name="w167">167.continence</string>
-    <string name="m167">self-control; abstention from sexual activity</string>
-    <string name="w168">168.contrite</string>
-    <string name="m168">very sorrowful for a wrong; seeking forgiveness</string>
-    <string name="w169">169.contumacious</string>
-    <string name="m169">disobedient; rebellious</string>
-    <string name="w170">170.conundrum</string>
-    <string name="m170">riddle; puzzle with no solution</string>
-    <string name="w171">171.convention</string>
-    <string name="m171">practice widely observed in a group; custom; accepted technique or device</string>
-    <string name="w172">172.converge</string>
-    <string name="m172">to approach; come together; tend to meet</string>
-    <string name="w173">173.convex</string>
-    <string name="m173">curved outward</string>
-    <string name="w174">174.convivial</string>
-    <string name="m174">sociable</string>
-    <string name="w175">175.convoluted</string>
-    <string name="m175">twisted; complicated</string>
-    <string name="w176">176.copious</string>
-    <string name="m176">abundant; plentiful</string>
-    <string name="w177">177.coquette</string>
-    <string name="m177">woman who flirts</string>
-    <string name="w178">178.cornucopia</string>
-    <string name="m178">horn overflowing with fruit and grain; state of abundance</string>
-    <string name="w179">179.cosmology</string>
-    <string name="m179">study of the universe as a totality; theory of the origin and structure of the universe</string>
-    <string name="w180">180.covert</string>
-    <string name="m180">hidden; secret</string>
-    <string name="w181">181.covetous</string>
-    <string name="m181">desiring something owned by another</string>
-    <string name="w182">182.cozen</string>
-    <string name="m182">to mislead by trick or fraud; deceive</string>
-    <string name="w183">183.craven</string>
-    <string name="m183">cowardly</string>
-    <string name="w184">184.credence</string>
-    <string name="m184">acceptance of something as true</string>
-    <string name="w185">185.credo</string>
-    <string name="m185">statement of belief or principle; creed</string>
-
-    <string name="w186">186.daunt</string>
-    <string name="m186">to discourage; intimidate; dishearten</string>
-    <string name="w187">187.dearth</string>
-    <string name="m187">scarcity</string>
-    <string name="w188">188.debauchery</string>
-    <string name="m188">corruption</string>
-    <string name="w189">189.decorum</string>
-    <string name="m189">proper behavior</string>
-    <string name="w190">190.defame</string>
-    <string name="m190">to malign; harm someone\'s reputation</string>
-    <string name="w191">191.default</string>
-    <string name="m191">to fail to act</string>
-    <string name="w192">192.deference</string>
-    <string name="m192">respect; regard for another\'s wish</string>
-    <string name="w193">193.defunct</string>
-    <string name="m193">no longer existing</string>
-    <string name="w194">194.delineate</string>
-    <string name="m194">to represent or depict</string>
-    <string name="w195">195.demographic</string>
-    <string name="m195">related to population balance</string>
-    <string name="w196">196.demotic</string>
-    <string name="m196">pertaining to people</string>
-    <string name="w197">19.demur</string>
-    <string name="m197">to express doubt; question or oppose</string>
-    <string name="w198">198.denigrate</string>
-    <string name="m198">to slur someone\'s reputation</string>
-    <string name="w199">199.denizen</string>
-    <string name="m199">an inhabitant; a regular visitor</string>
-    <string name="w200">200.denouement</string>
-    <string name="m200">outcome; unraveling of the plot of a play or work of literature</string>
-    <string name="w201">201.deride</string>
-    <string name="m201">to mock</string>
-    <string name="w202">202.derivative</string>
-    <string name="m202">something derived; unoriginal</string>
-    <string name="w203">203.desiccate</string>
-    <string name="m203">to dry completely</string>
-    <string name="w204">204.desuetude</string>
-    <string name="m204">state of disuse</string>
-    <string name="w205">205.desultory</string>
-    <string name="m205">random; disconnected; rambling</string>
-    <string name="w206">206.deterrent</string>
-    <string name="m206">something that discourages or hinders</string>
-    <string name="w207">207.detraction</string>
-    <string name="m207">the act of taking away</string>
-    <string name="w208">208.diaphanous</string>
-    <string name="m208">transparent; vague; insubstantial</string>
-    <string name="w209">209.diatribe</string>
-    <string name="m209">bitter verbal attack </string>
-    <string name="w210">210.dichotomy</string>
-    <string name="m210">division into two usually contradictory parts</string>
-    <string name="w211">211.diffidence</string>
-    <string name="m211">shyness; lack of confidence</string>
-    <string name="w212">212.diffuse</string>
-    <string name="m212">to spread out</string>
-    <string name="w213">213.digression</string>
-    <string name="m213">act of straying from the main point</string>
-    <string name="w214">214.dirge</string>
-    <string name="m214">funeral hymn</string>
-    <string name="w215">215.disabuse</string>
-    <string name="m215">free from a misconception</string>
-    <string name="w216">216.discerning</string>
-    <string name="m216">perceptive; exhibiting keen insight and good judgment</string>
-    <string name="w217">217.discomfit</string>
-    <string name="m217">to make uneasy; disconcert</string>
-    <string name="w218">218.discordant</string>
-    <string name="m218">not in tune</string>
-    <string name="w219">219.discredit</string>
-    <string name="m219">to dishonor; disgrace</string>
-    <string name="w220">220.discrepancy</string>
-    <string name="m220">difference between</string>
-    <string name="w221">221.discrete</string>
-    <string name="m221">constituting a separate thing; distinct</string>
-    <string name="w222">222.discretion</string>
-    <string name="m222">quality of showing self-restraint in speech or actions</string>
-    <string name="w223">223.disingenuous</string>
-    <string name="m223">not candid, crafty</string>
-    <string name="w224">224.disinterested</string>
-    <string name="m224">unprejudiced; objective</string>
-    <string name="w225">225.disjointed</string>
-    <string name="m225">lacking order or coherence; dislocated</string>
-    <string name="w226">226.dismiss</string>
-    <string name="m226">put away from consideration; reject</string>
-    <string name="w227">227.disparage</string>
-    <string name="m227">to belittle</string>
-    <string name="w228">228.disparate</string>
-    <string name="m228">dissimilar</string>
-    <string name="w229">229.dissemble</string>
-    <string name="m229">to pretend; disguise one\'s motives</string>
-    <string name="w230">230.disseminate</string>
-    <string name="m230">to spread; scatter; disperse</string>
-    <string name="w231">231.dissident</string>
-    <string name="m231">person who disagrees about beliefs</string>
-    <string name="w232">232.dissolution</string>
-    <string name="m232">disintegration; debauchery</string>
-    <string name="w233">233.dissonance</string>
-    <string name="m233">discord; lack of harmony</string>
-    <string name="w234">234.distend</string>
-    <string name="m234">to expand; swell out</string>
-    <string name="w235">235distill</string>
-    <string name="m235">extract the essential elements</string>
-    <string name="w236">236distrait</string>
-    <string name="m236">inattentive; preoccupied</string>
-    <string name="w237">237.diverge</string>
-    <string name="m237">to vary; go in different directions from the same point</string>
-    <string name="w238">238.divest</string>
-    <string name="m238">to strip; deprive; rid</string>
-    <string name="w239">239.divulge</string>
-    <string name="m239">to make known something that is secret</string>
-    <string name="w240">240.doctrinaire</string>
-    <string name="m240">dogmatic; unyielding</string>
-    <string name="w241">241.document</string>
-    <string name="m241">to provide with written evidence to support</string>
-    <string name="w242">242.doggerel</string>
-    <string name="m242">poor verse</string>
-    <string name="w243">243.dogmatic</string>
-    <string name="m243">stating opinions without proof</string>
-    <string name="w244">244.dormant</string>
-    <string name="m244">inactive</string>
-    <string name="w245">245.dross</string>
-    <string name="m245">waste; worthless matter</string>
-    <string name="w246">246.dupe</string>
-    <string name="m246">to deceive; trick</string>
-
-    <string name="w247">247.ebullient</string>
-    <string name="m247">exhilarated; overly enthusiastic</string>
-    <string name="w248">248.eclectic</string>
-    <string name="m248">selecting from various sources</string>
-    <string name="w249">249.effervescence</string>
-    <string name="m249">state of high spirits or liveliness; process of bubling as gas escapes</string>
-    <string name="w250">250.effete</string>
-    <string name="m250">depleted of vitality; over refined; decadent</string>
-    <string name="w251">251.efficacy</string>
-    <string name="m251">effectiveness; efficiency</string>
-    <string name="w252">252.effrontery</string>
-    <string name="m252">shameless boldness; presumptuousness</string>
-    <string name="w253">253.egoism</string>
-    <string name="m253">the tendency to see things in relation to oneself; self-centeredness</string>
-    <string name="w254">254.egotistical</string>
-    <string name="m254">excessively self-centered; conceited</string>
-    <string name="w255">255.elegy</string>
-    <string name="m255">poem or song expressing lamentation</string>
-    <string name="w256">256.elicit</string>
-    <string name="m256">to provoke; draw out</string>
-    <string name="w257">257.elixir</string>
-    <string name="m257">a sustance believed to have the power to cure ills</string>
-    <string name="w258">258.Elysian</string>
-    <string name="m258">delightful; blissful</string>
-    <string name="w259">259.emaciated</string>
-    <string name="m259">thin and wasted</string>
-    <string name="w260">260.embellish</string>
-    <string name="m260">to adorn; enhance</string>
-    <string name="w261">261.emollient</string>
-    <string name="m261">soothing; mollifying</string>
-    <string name="w262">262.empirical</string>
-    <string name="m262">derived from observation or experiment</string>
-    <string name="w263">263.emulate</string>
-    <string name="m263">to imitate; copy</string>
-    <string name="w264">264.encomium</string>
-    <string name="m264">a formal expression of praise</string>
-    <string name="w265">265.endemic</string>
-    <string name="m265">inherent; belonging to an area</string>
-    <string name="w266">266.enervate</string>
-    <string name="m266">to weaken</string>
-    <string name="w267">267.engender</string>
-    <string name="m267">to cause; produce</string>
-    <string name="w268">268.enhance</string>
-    <string name="m268">to increase; improve</string>
-    <string name="w269">269.entomology</string>
-    <string name="m269">the scientific study of insects</string>
-    <string name="w270">270.enunciate</string>
-    <string name="m270">to pronounce clearly</string>
-    <string name="w271">271.ephemeral</string>
-    <string name="m271">short-lived; fleeting</string>
-    <string name="w272">272.epistemology</string>
-    <string name="m272">branch of philosophy that examines the nature of knowledge</string>
-    <string name="w273">273.equable</string>
-    <string name="m273">steady; unvarying; serene</string>
-    <string name="w274">274.equanimity</string>
-    <string name="m274">composure; calmness</string>
-    <string name="w275">275.equivocate</string>
-    <string name="m275">intentionally use vague language</string>
-    <string name="w276">276.errant</string>
-    <string name="m276">mistaken; straying from the proper course</string>
-    <string name="w277">277.erudite</string>
-    <string name="m277">learned; scholarly</string>
-    <string name="w278">278.esoteric</string>
-    <string name="m278">hard to understand; known only to a few</string>
-    <string name="w279">279.essay</string>
-    <string name="m279">to make an attempt; subject to a test</string>
-    <string name="w280">280.estimable</string>
-    <string name="m280">admirable; possible to estimate</string>
-    <string name="w281">281.ethnocentric</string>
-    <string name="m281">based on the attitude that one\'s group is superior</string>
-    <string name="w282">282.etiology</string>
-    <string name="m282">causes or origins</string>
-    <string name="w283">283.etymology</string>
-    <string name="m283">origin an history of a word</string>
-    <string name="w284">284.eugenics</string>
-    <string name="m284">study of factors that influence the hereditary qualities of the human race and ways to improve those qualities</string>
-    <string name="w285">285.eulogy</string>
-    <string name="m285">high praise to a death person</string>
-    <string name="w286">286.euphemism</string>
-    <string name="m286">use of agreeable or inoffensive language in place of offensive language</string>
-    <string name="w287">287.euphoria</string>
-    <string name="m287">feeling of extreme happiness</string>
-    <string name="w288">288.euthanasia</string>
-    <string name="m288">mercy killing</string>
-    <string name="w289">289.evince</string>
-    <string name="m289">to show plainly; be an indication of</string>
-    <string name="w290">290.evocative</string>
-    <string name="m290">tending to call to mind or produce a reaction</string>
-    <string name="w291">291.exacerbate</string>
-    <string name="m291">to aggravate; make worse</string>
-    <string name="w292">292.exact</string>
-    <string name="m292">to force the payment of; demand and obtain by authority</string>
-    <string name="w293">293.exculpate</string>
-    <string name="m293">to clear of blame; vindicate</string>
-    <string name="w294">294.execrable</string>
-    <string name="m294">detestable;  abhorrent</string>
-    <string name="w295">295.exhort</string>
-    <string name="m295">to urge by strong appeals</string>
-    <string name="w296">296.exigency</string>
-    <string name="m296">crisis; urgent requirements</string>
-    <string name="w297">297.existential</string>
-    <string name="m297">having to do with existence</string>
-    <string name="w298">298.exorcise</string>
-    <string name="m298">to expel evil spirits; free from bad influences</string>
-    <string name="w299">299.expatiate</string>
-    <string name="m299">to speak or write at length</string>
-    <string name="w300">300.expatriate</string>
-    <string name="m300">to send into exile</string>
-    <string name="w301">301.expiate</string>
-    <string name="m301">to atone for</string>
-    <string name="w302">302.explicate</string>
-    <string name="m302">to explain; interpret; clarify</string>
-    <string name="w303">303.expository</string>
-    <string name="m303">explanatory</string>
-    <string name="w304">304.extant</string>
-    <string name="m304">in existence; not lost</string>
-    <string name="w305">305.extemporaneous</string>
-    <string name="m305">unrehearsed</string>
-    <string name="w306">306.extirpate</string>
-    <string name="m306">to root up; to destroy</string>
-    <string name="w307">307.extraneous</string>
-    <string name="m307">not essential</string>
-    <string name="w308">308.extrapolation</string>
-    <string name="m308">the act of estimation by projecting known information</string>
-    <string name="w309">309.extrinsic</string>
-    <string name="m309">not inherent of essential</string>
-
-    <string name="w310">310.facetious</string>
-    <string name="m310">humorous</string>
-    <string name="w311">311.facilitate</string>
-    <string name="m311">to make less difficult</string>
-    <string name="w312">312.factotum</string>
-    <string name="m312">a person who does all sorts of work; a handyman</string>
-    <string name="w313">313.fallacious</string>
-    <string name="m313">based on a false idea or fact; misleading</string>
-    <string name="w314">314.fallow</string>
-    <string name="m314">plowed but not sowed; uncultivated</string>
-    <string name="w315">315.fatuous</string>
-    <string name="m315">foolishly self-satisfied</string>
-    <string name="w316">316.fauna</string>
-    <string name="m316">animals of a period o region</string>
-    <string name="w317">317.fawning</string>
-    <string name="m317">seeking flavor by flattering</string>
-    <string name="w318">318.felicitous</string>
-    <string name="m318">suitable expressed; wee-chose; appropriate</string>
-    <string name="w319">319.feral</string>
-    <string name="m319">existing in a wild or untamed state</string>
-    <string name="w320">320.fervor</string>
-    <string name="m320">warmth and intensity of emotion</string>
-    <string name="w321">321.fetid</string>
-    <string name="m321">having a bad smell</string>
-    <string name="w322">322.fetter</string>
-    <string name="m322">to bind; confine</string>
-    <string name="w323">323.fiat</string>
-    <string name="m323">arbitrary  order; authorization</string>
-    <string name="w324">324.fidelity</string>
-    <string name="m324">loyalty; exact correspondence</string>
-    <string name="w325">325.filibuster</string>
-    <string name="m325">use of obstructive tactics in a legislature to block passage of a law</string>
-    <string name="w326">326.finesse</string>
-    <string name="m326">to handle with a deceptive or evasive strategy; refined in performance</string>
-    <string name="w327">327.fissure</string>
-    <string name="m327">crevice</string>
-    <string name="w328">328.flag</string>
-    <string name="m328">to droop; grow weak</string>
-    <string name="w329">329.fledgling</string>
-    <string name="m329">beginner; novice</string>
-    <string name="w330">330.flora</string>
-    <string name="m330">plants of a region or era</string>
-    <string name="w331">331.florid</string>
-    <string name="m331">ruddy; reddish; flowery</string>
-    <string name="w332">332.flourish</string>
-    <string name="m332">en embellishment or ornamentation</string>
-    <string name="w333">333.flout</string>
-    <string name="m333">to treat scornfully</string>
-    <string name="w334">334.flux</string>
-    <string name="m334">flowing; a continuous moving</string>
-    <string name="w335">335.foment</string>
-    <string name="m335">to incite; arouse</string>
-    <string name="w336">336.forbearance</string>
-    <string name="m336">patience</string>
-    <string name="w337">337.forestall</string>
-    <string name="m337">to prevent; delay</string>
-    <string name="w338">338.formidable</string>
-    <string name="m338">menacing; threatening</string>
-    <string name="w339">339.forswear</string>
-    <string name="m339">renounce; repudiate</string>
-    <string name="w340">340.founder</string>
-    <string name="m340">to sink; fail; collapse</string>
-    <string name="w341">341.fracas</string>
-    <string name="m341">a loud quarrel; brawl</string>
-    <string name="w342">342.fractious</string>
-    <string name="m342">quarrelsome; unruly; rebellious</string>
-    <string name="w343">343.fresco</string>
-    <string name="m343">a painting done on plaster</string>
-    <string name="w344">344.frieze</string>
-    <string name="m344">ornamental band on a wall</string>
-    <string name="w345">345.froward</string>
-    <string name="m345">stubbornly contrary; obstinately disobedient</string>
-    <string name="w346">346.frugality</string>
-    <string name="m346">thrift</string>
-    <string name="w347">347.fulminate</string>
-    <string name="m347">to attack loudly; denounce</string>
-    <string name="w348">348.fulsome</string>
-    <string name="m348">so excessive as to be disgusting</string>
-    <string name="w349">349.fusion</string>
-    <string name="m349">union; synthesis</string>
-    <string name="w350">350.futile</string>
-    <string name="m350">ineffective; useless; fruitless</string>
-
-    <string name="w351">351.gainsay</string>
-    <string name="m351">to deny; dispute; oppose</string>
-    <string name="w352">352.gambol</string>
-    <string name="m352">to frolic; leap playfully</string>
-    <string name="w353">353.garrulous</string>
-    <string name="m353">very talkative; wordy</string>
-    <string name="w354">354.gauche</string>
-    <string name="m354">coarse and uncouth; clumsy</string>
-    <string name="w355">355.geniality</string>
-    <string name="m355">cheerfulness; kindliness; sociability</string>
-    <string name="w356">356.gerrymander</string>
-    <string name="m356">to divide an area into voting districts in a way that favors a political party</string>
-    <string name="w357">357.glib</string>
-    <string name="m357">fluent in an insincere way; offhand</string>
-    <string name="w358">358.goad</string>
-    <string name="m358">to prod; urge on</string>
-    <string name="w359">359.gossamer</string>
-    <string name="m359">sheer; light and delicate; like cobwebs</string>
-    <string name="w360">360.gouge</string>
-    <string name="m360">to tear out; scoop out; overcharge</string>
-    <string name="w361">361.>grandiloquent</string>
-    <string name="m361">pompous; bombastic</string>
-    <string name="w362">362.gregarious</string>
-    <string name="m362">outgoing; sociable</string>
-    <string name="w363">363.grouse</string>
-    <string name="m363">to complain</string>
-    <string name="w364">364.guileless</string>
-    <string name="m364">free of cunning or deceit; artless</string>
-    <string name="w365">365.guise</string>
-    <string name="m365">outward appearance; false appearance</string>
-    <string name="w366">366.gullible</string>
-    <string name="m366">easily deceived</string>
-    <string name="w367">367.gustatory</string>
-    <string name="m367">affecting the sense of taste</string>
-
-    <string name="w368">368.halcyon</string>
-    <string name="m368">calm and peaceful; happy; golden; prosperous</string>
-    <string name="w369">369.hallowed</string>
-    <string name="m369">holy; sacred</string>
-    <string name="w370">370harangue</string>
-    <string name="m370">long, pompous speech; tirade</string>
-    <string name="w371">371.harrowing</string>
-    <string name="m371">extremely distressing; terrifying</string>
-    <string name="w372">372.herbivorous</string>
-    <string name="m372">an animal that feeds mainly on plants</string>
-    <string name="w373">373.hermetic</string>
-    <string name="m373">tightly sealed; magical</string>
-    <string name="w374">374.heterodox</string>
-    <string name="m374">not widely accepted</string>
-    <string name="w375">35.hieroglyphics</string>
-    <string name="m375">a system of writing in which pictorial symbols represent meanings or sounds; writing or symbols that are difficult to decipher</string>
-    <string name="w376">376.hirsute</string>
-    <string name="m376">covered with hair</string>
-    <string name="w377">377.histrionic</string>
-    <string name="m377">relating to exaggerated emotional behavior calculated for effect; theatrical acts or performances</string>
-    <string name="w378">378.homeostasis</string>
-    <string name="m378">automatic maintenance by an organism in balance with itself</string>
-    <string name="w379">379.homily</string>
-    <string name="m379">sermon; tedious moralizing lecture</string>
-    <string name="w380">380.homogeneous</string>
-    <string name="m380">composed of identical parts; uniform in composition</string>
-    <string name="w381">381.hyperbole</string>
-    <string name="m381">purposeful exaggeration for effect</string>
-    I
-    <string name="w382">382.iconoclastic</string>
-    <string name="m382">attacking cherished traditions</string>
-    <string name="w383">383.idolatry</string>
-    <string name="m383">idol worship; blind or excessive devotion</string>
-    <string name="w384">384.igneous</string>
-    <string name="m384">produced by fire; volcanic</string>
-    <string name="w385">385.imbroglio</string>
-    <string name="m385">complicated situation; an entanglement</string>
-    <string name="w386">386.immutable</string>
-    <string name="m386">unchangeable</string>
-    <string name="w387">387.impair to</string>
-    <string name="m387">damage; injure</string>
-    <string name="w388">388.impassive</string>
-    <string name="m388">showing no emotion</string>
-    <string name="w389">389.impecunious</string>
-    <string name="m389">poor; having no money</string>
-    <string name="w390">390.impede</string>
-    <string name="m390">to hinder; block</string>
-    <string name="w391">391.impermeable</string>
-    <string name="m391">impossible to permeate</string>
-    <string name="w392">392.imperturbable</string>
-    <string name="m392">not easily disturbed</string>
-    <string name="w393">393.impervious</string>
-    <string name="m393">incapable of being affected; impossible to penetrate</string>
-    <string name="w394">394.impinge</string>
-    <string name="m394">to strike; encroach</string>
-    <string name="w395">395.implacable</string>
-    <string name="m395">inflexible; incable of being pleased or calmed down</string>
-    <string name="w396">396.implausible</string>
-    <string name="m396">unlikely; unbelievable</string>
-    <string name="w397">397.implicit</string>
-    <string name="m397">implied; understood but not stated</string>
-    <string name="w398">398.implode</string>
-    <string name="m398">collapse inward violently</string>
-    <string name="w399">399.imprecation</string>
-    <string name="m399">curse; damnation</string>
-    <string name="w400">400.impute</string>
-    <string name="m400">to attribute the fault to; relate to a particular cause or source</string>
-    <string name="w401">401.inadvertently</string>
-    <string name="m401">carelessly; unintentionally</string>
-    <string name="w402">402.incarnate</string>
-    <string name="m402">having bodily form</string>
-    <string name="w403">403.inchoate</string>
-    <string name="m403">imperfectly formed or formulated</string>
-    <string name="w404">404.incongruity</string>
-    <string name="m404">state of not fitting</string>
-    <string name="w405">405.inconsequential</string>
-    <string name="m405">insignificant; unimportant</string>
-    <string name="w406">406.incorporate</string>
-    <string name="m406">introduce something into another thing already in existence</string>
-    <string name="w407">40.incursion</string>
-    <string name="m407">sudden invasion</string>
-    <string name="w408">408.indeterminate</string>
-    <string name="m408">uncertain; indefinite</string>
-    <string name="w409">409.indigence</string>
-    <string name="m409">poverty</string>
-    <string name="w410">410.indolent</string>
-    <string name="m410">habitually lazy; idle</string>
-    <string name="w411">411.ineluctable</string>
-    <string name="m411">not to be avoided or escaped; inevitable</string>
-    <string name="w412">412.inert</string>
-    <string name="m412">unable to move; sluggish</string>
-    <string name="w413">413.ingenuous</string>
-    <string name="m413">naive and trusting; lacking sophistication</string>
-    <string name="w414">414.inherent</string>
-    <string name="m414">firmly established by nature or habit</string>
-    <string name="w415">415.innocuous</string>
-    <string name="m415">harmless</string>
-    <string name="w416">416.insensible</string>
-    <string name="m416">unconscious; unresponsive</string>
-    <string name="w417">41.insinuate</string>
-    <string name="m417">to suggest; say indirectly; imply</string>
-    <string name="w418">418.insipid</string>
-    <string name="m418">lacking in flavor; dull</string>
-    <string name="w419">419.insouciant</string>
-    <string name="m419">indifferent; lacking concern or care</string>
-    <string name="w420">420.insularity</string>
-    <string name="m420">narrow-mindedness; isolation</string>
-    <string name="w421">421.insuperable</string>
-    <string name="m421">insurmountable; unconquerable</string>
-    <string name="w422">422.intangible</string>
-    <string name="m422">not material</string>
-    <string name="w423">423.interdict</string>
-    <string name="m423">to forbid; prohibit</string>
-    <string name="w424">424.internecine</string>
-    <string name="m424">deadly to both sides</string>
-    <string name="w425">425.interpolate</string>
-    <string name="m425">to insert; change by adding new words or material</string>
-    <string name="w426">426.interregnum</string>
-    <string name="m426">interval between reigns; gap in continuity</string>
-    <string name="w427">427.intimate</string>
-    <string name="m427">marked by close acquaintance</string>
-    <string name="w428">428.intractable</string>
-    <string name="m428">not easily managed</string>
-    <string name="w429">429.intransigence</string>
-    <string name="m429">stubbornness; refusal to compromise</string>
-    <string name="w430">430.introspective</string>
-    <string name="m430">contemplating one\'s own thoughts and feelings</string>
-    <string name="w431">431.inundate</string>
-    <string name="m431">to cover with water, overwhelm</string>
-    <string name="w432">432.inured</string>
-    <string name="m432">hardened; accustomed; used to</string>
-    <string name="w433">433.invective</string>
-    <string name="m433">verbal abuse</string>
-    <string name="w434">434.inveigh</string>
-    <string name="m434">to disapprove; protest vehemently</string>
-    <string name="w435">435.inveigle</string>
-    <string name="m435">to win over by flattering or coaxing</string>
-    <string name="w436">436.inveterate</string>
-    <string name="m436">confirmed; long standing</string>
-    <string name="w437">437.invidious</string>
-    <string name="m437">likely to provoke ill will</string>
-    <string name="w438">438.irascible</string>
-    <string name="m438">easily angered</string>
-    <string name="w439">439.irresolute</string>
-    <string name="m439">unsure of how to act; weak</string>
-    <string name="w440">440.itinerant</string>
-    <string name="m440">wandering from place to place; unsettled</string>
-    <string name="w441">441.itinerary</string>
-    <string name="m441">route of a traveler\'s journey</string>
-
-    <string name="w442">442.jaundiced</string>
-    <string name="m442">having a yellowish discoloration of the skin; affected by envy</string>
-    <string name="w443">443.jibe</string>
-    <string name="m443">to be in agreement</string>
-    <string name="w444">444.jocose</string>
-    <string name="m444">fond of joking; jocular</string>
-    <string name="w445">445.juggernaut</string>
-    <string name="m445">huge force destroying everything in its path</string>
-    <string name="w446">446.junta</string>
-    <string name="m446">group of people united in political intrigue</string>
-    <string name="w447">447.juxtapose</string>
-    <string name="m447">place side by side</string>
-
-    <string name="w448">448.kudos</string>
-    <string name="m448">fame; glory; honor</string>
-
-    <string name="w449">449.labile</string>
-    <string name="m449">likely to change</string>
-    <string name="w450">450.laconic</string>
-    <string name="m450">using few words</string>
-    <string name="w451">451.lambaste</string>
-    <string name="m451">to trash verbally or physically</string>
-    <string name="w452">452.lascivious</string>
-    <string name="m452">lustful</string>
-    <string name="w453">453.lassitude</string>
-    <string name="m453">lethargy; sluggishness</string>
-    <string name="w454">454.latent</string>
-    <string name="m454">dormant; potential not apparent</string>
-    <string name="w455">455.laud</string>
-    <string name="m455">praise</string>
-    <string name="w456">456.lethargic</string>
-    <string name="m456">inactive</string>
-    <string name="w457">457.levee</string>
-    <string name="m457">en embankment that prevents a river from overflowing</string>
-    <string name="w458">458.levity</string>
-    <string name="m458">light manner or attitude</string>
-    <string name="w459">459.liberal</string>
-    <string name="m459">tolerant; broad-minded</string>
-    <string name="w460">460.libertine</string>
-    <string name="m460">one without moral restraint</string>
-    <string name="w461">461.libido</string>
-    <string name="m461">sexual desire</string>
-    <string name="w462">462.Lilliputian</string>
-    <string name="m462">extremely small</string>
-    <string name="w463">463.limn</string>
-    <string name="m463">to draw, describe</string>
-    <string name="w464">464.limpid</string>
-    <string name="m464">clear; transparent</string>
-    <string name="w465">465.linguistic</string>
-    <string name="m465">pertaining to language</string>
-    <string name="w466">466.litany</string>
-    <string name="m466">lengthy recitation; repetitive chant</string>
-    <string name="w467">467.literati</string>
-    <string name="m467">scholarly of learned persons</string>
-    <string name="w468">468.litigation</string>
-    <string name="m468">legal proceedings</string>
-    <string name="w469">469.log</string>
-    <string name="m469">record of a voyage; record of daily activities</string>
-    <string name="w470">470.loquacious</string>
-    <string name="m470">talkative</string>
-    <string name="w471">471.lucid</string>
-    <string name="m471">bright; clear; intelligible</string>
-    <string name="w472">472.lucre</string>
-    <string name="m472">money or profits</string>
-    <string name="w473">473.luminous</string>
-    <string name="m473">bright; brilliant; glowing</string>
-    <string name="w474">474.lustrous</string>
-    <string name="m474">shining</string>
-
-    <string name="w475">475.Machiavellian</string>
-    <string name="m475">crafty; double-dealing</string>
-    <string name="w476">476.machinations</string>
-    <string name="m476">plots or schemes</string>
-    <string name="w477">477.maelstrom</string>
-    <string name="m477">whirlpool; turmoil</string>
-    <string name="w478">478.magnanimity</string>
-    <string name="m478">generosity; nobility</string>
-    <string name="w479">479.malign</string>
-    <string name="m479">to speak evil of</string>
-    <string name="w480">480.malinger</string>
-    <string name="m480">to feign illness to escape duty
-     Nevertheless, paradoxical though it may seem, cases of pure malingering of mental disease are comparatively ________ in actual practice.
-     sporadic illogical intermittent obvious contradictory compelling</string>
-    <string name="w481">481.malleable</string>
-    <string name="m481">capable of being shaped by pounding; impressionate</string>
-    <string name="w482">482.maverick</string>
-    <string name="m482">dissenter</string>
-    <string name="w483">483.megalomania</string>
-    <string name="m483">delusions of power or importance</string>
-    <string name="w484">484.menagerie</string>
-    <string name="m484">a variety of animals kept together</string>
-    <string name="w485">485.mendacious</string>
-    <string name="m485">dishonest</string>
-    <string name="w486">486.mendicant</string>
-    <string name="m486">beggar</string>
-    <string name="w487">487.meretricious</string>
-    <string name="m487">gaudy; specious; falsely attractive</string>
-    <string name="w488">488.mesmerize</string>
-    <string name="m488">to hypnotize</string>
-    <string name="w489">489.metamorphosis</string>
-    <string name="m489">change; transformation</string>
-    <string name="w490">490.metaphysics</string>
-    <string name="m490">a branch of philosophy that investigates the ultimate nature of reality</string>
-    <string name="w491">491.meteorological</string>
-    <string name="m491">concerned with the weather</string>
-    <string name="w492">492.meticulous</string>
-    <string name="m492">very careful; picky; fastidious</string>
-    <string name="w493">493.mettle</string>
-    <string name="m493">courage; endurance</string>
-    <string name="w494">494.mettlesome</string>
-    <string name="m494">full of courage and fortitude</string>
-    <string name="w495">495.microcosm</string>
-    <string name="m495">a small system having analogies to a larger system</string>
-    <string name="w496">496.militate</string>
-    <string name="m496">to work against</string>
-    <string name="w497">497.minatory</string>
-    <string name="m497">threatening; menacing</string>
-    <string name="w498">498.minuscule</string>
-    <string name="m498">very small</string>
-    <string name="w499">499.minutia</string>
-    <string name="m499">petty details</string>
-    <string name="w500">500.misanthrope</string>
-    <string name="m500">one who hates humanity; one who dislikes others</string>
-    <string name="w501">501.miscellany</string>
-    <string name="m501">mixture of writings on various subjects</string>
-    <string name="w502">502.miscreant</string>
-    <string name="m502">villain; criminal</string>
-    <string name="w503">503.misogynist</string>
-    <string name="m503">one who hates women</string>
-    <string name="w504">504.mitigate</string>
-    <string name="m504">alleviate; to become less severe</string>
-    <string name="w505">505.mnemonic</string>
-    <string name="m505">related to memory; assisting memory</string>
-    <string name="w506">506.modicum</string>
-    <string name="m506">limited quantity</string>
-    <string name="w507">507.mollify</string>
-    <string name="m507">to soothe</string>
-    <string name="w508">508.monolithic</string>
-    <string name="m508">solid and uniform; constituting a single, unified whole</string>
-    <string name="w509">509.morose</string>
-    <string name="m509">ill-humored; sullen</string>
-    <string name="w510">510.motley</string>
-    <string name="m510">many colored; made up of many parts</string>
-    <string name="w511">511.multifarious</string>
-    <string name="m511">diverse</string>
-    <string name="w512">512.mundane</string>
-    <string name="m512">worldly as opposed to spiritual; concerned with the ordinary</string>
-
-    <string name="w513">513.necromancy</string>
-    <string name="m513">black magic</string>
-    <string name="w514">514.negate</string>
-    <string name="m514">to cancel out; nullify</string>
-    <string name="w515">515.neologism</string>
-    <string name="m515">new word or expression</string>
-    <string name="w516">516.neophyte</string>
-    <string name="m516">novice; beginner</string>
-    <string name="w517">517.nexus</string>
-    <string name="m517">a means of connection; a center</string>
-    <string name="w518">518.nonplussed</string>
-    <string name="m518">bewildered</string>
-    <string name="w519">519.nostalgia</string>
-    <string name="m519">sentimental longing for a past time</string>
-    <string name="w520">520.nostrum</string>
-    <string name="m520">medicine or remedy of doubtful effectiveness</string>
-    <string name="w521">521.nugatory</string>
-    <string name="m521">trifling; invalid</string>
-
-    <string name="w522">522.obdurate</string>
-    <string name="m522">stubborn</string>
-    <string name="w523">523.obsequious</string>
-    <string name="m523">overly submissive</string>
-    <string name="w524">524.obsequy</string>
-    <string name="m524">funeral ceremony</string>
-    <string name="w525">525.obviate</string>
-    <string name="m525">to make unnecessary; to anticipate and prevent</string>
-    <string name="w526">526.occlude</string>
-    <string name="m526">to shut; block</string>
-    <string name="w527">527.occult</string>
-    <string name="m527">relating to practices connected with supernatural phenomena</string>
-    <string name="w528">528.odyssey</string>
-    <string name="m528">a long, adventurous voyage; a quest</string>
-    <string name="w529">529.officious</string>
-    <string name="m529">too helpful; meddlesome</string>
-    <string name="w530">530.olfactory</string>
-    <string name="m530">concerning the sense of smell</string>
-    <string name="w531">531.oligarchy</string>
-    <string name="m531">form of government in which power belongs to only a few leaders</string>
-    <string name="w532">532.onerous</string>
-    <string name="m532">burdensome</string>
-    <string name="w533">533.onomatopoeia</string>
-    <string name="m533">formation or use of words that imitate sounds of the actions they refer to</string>
-    <string name="w534">534.opprobrium</string>
-    <string name="m534">public disgrace; contempt</string>
-    <string name="w535">535.ornithologist</string>
-    <string name="m535">scientist who studies birds</string>
-    <string name="w536">536.oscillate</string>
-    <string name="m536">to move back and forth</string>
-    <string name="w537">537.ostentatious</string>
-    <string name="m537">showy; pretentious</string>
-    <string name="w538">538.overweening</string>
-    <string name="m538">presumptuous; arrogant</string>
-
-    <string name="w539">539.paean</string>
-    <string name="m539">song of joy or triumph; a fervent expression of joy</string>
-    <string name="w540">540.paleontology</string>
-    <string name="m540">study of past geological eras through fossil remains</string>
-    <string name="w541">541.pallid</string>
-    <string name="m541">lacking color or liveliness</string>
-    <string name="w542">542.panegyric</string>
-    <string name="m542">elaborate praise; formal hymn of praise</string>
-    <string name="w543">543.paragon</string>
-    <string name="m543">model of perfection or excellence</string>
-    <string name="w544">544.partisan</string>
-    <string name="m544">one-sided; committed to a party, group or cause</string>
-    <string name="w545">545.pathological</string>
-    <string name="m545">departing from normal condition</string>
-    <string name="w546">546.patois</string>
-    <string name="m546">jargon; a regional dialect</string>
-    <string name="w547">547.paucity</string>
-    <string name="m547">scarcity</string>
-    <string name="w548">548.pedantic</string>
-    <string name="m548">showing off learning</string>
-    <string name="w549">549.pellucid</string>
-    <string name="m549">transparent; easily understood</string>
-    <string name="w550">550.penchant</string>
-    <string name="m550">inclination</string>
-    <string name="w551">551.penury</string>
-    <string name="m551">extreme poverty</string>
-    <string name="w552">552.peregrination</string>
-    <string name="m552">wandering from place to place</string>
-    <string name="w553">553.peremptory</string>
-    <string name="m553">imperative; leaving no choice</string>
-    <string name="w554">554.perennial</string>
-    <string name="m554">present throughout the years; persistent</string>
-    <string name="w555">555.perfidious</string>
-    <string name="m555">faithless; disloyal; untrustworthy</string>
-    <string name="w556">556.perfunctory</string>
-    <string name="m556">superficial; performed really as a duty</string>
-    <string name="w557">557.perigee</string>
-    <string name="m557">point in an orbit that is closest to the earth</string>
-    <string name="w558">558.permeable</string>
-    <string name="m558">penetrable</string>
-    <string name="w559">559.perturb</string>
-    <string name="m559">to disturb greatly; make uneasy or anxious</string>
-    <string name="w560">560.pervasive</string>
-    <string name="m560">spread throughout every part</string>
-    <string name="w561">561.petulant</string>
-    <string name="m561">rude; peevish</string>
-    <string name="w562">562.phlegmatic</string>
-    <string name="m562">unemotional; calm in temperament</string>
-    <string name="w563">563.phoenix</string>
-    <string name="m563">anything that is restored after suffering great destruction</string>
-    <string name="w564">564.physiognomy</string>
-    <string name="m564">facial features</string>
-    <string name="w565">565.piety</string>
-    <string name="m565">devoutness</string>
-    <string name="w566">566.piquant</string>
-    <string name="m566">pleasantly pungent; attractive</string>
-    <string name="w567">567.pique</string>
-    <string name="m567">fleeting feeling or hurt pride</string>
-    <string name="w568">568.placate</string>
-    <string name="m568">soothe; pacify</string>
-    <string name="w569">569.placid</string>
-    <string name="m569">calm</string>
-    <string name="w570">570.plaintive</string>
-    <string name="m570">melancholy; mournful</string>
-    <string name="w571">571.plasticity</string>
-    <string name="m571">pliability; condition of being able to be shaped or formed</string>
-    <string name="w572">572.platitude</string>
-    <string name="m572">stale; overused expression</string>
-    <string name="w573">573.platonic</string>
-    <string name="m573">spiritual; theoretical</string>
-    <string name="w574">574.plethora</string>
-    <string name="m574">excess; overabundance</string>
-    <string name="w575">575.plumb</string>
-    <string name="m575">to examine deeply; determine the depth</string>
-    <string name="w576">576.plummet</string>
-    <string name="m576">to fall; plunge</string>
-    <string name="w577">577.plutocracy</string>
-    <string name="m577">society ruled by the wealthy</string>
-    <string name="w578">578.porous</string>
-    <string name="m578">full of holes; permeable to liquids</string>
-    <string name="w579">579.poseur</string>
-    <string name="m579">person who affects an attitude to impress others</string>
-    <string name="w580">580.pragmatic</string>
-    <string name="m580">practical</string>
-    <string name="w581">581.prate</string>
-    <string name="m581">to talk idly; chatter</string>
-    <string name="w582">582.prattle</string>
-    <string name="m582">meaningless, foolish talk</string>
-    <string name="w583">583.preamble</string>
-    <string name="m583">preliminary statement</string>
-    <string name="w584">584.precarious</string>
-    <string name="m584">uncertain</string>
-    <string name="w585">585.precept</string>
-    <string name="m585">principle; law</string>
-    <string name="w586">586.precipitate</string>
-    <string name="m586">rash; hasty; sudden; done without deliberation</string>
-    <string name="w587">587.precipitate</string>
-    <string name="m587">to cause to happen; throw down from a height</string>
-    <string name="w588">588.precursor</string>
-    <string name="m588">forerunner; predecessor</string>
-    <string name="w589">589.preempt</string>
-    <string name="m589">to supersede; appropriate  for oneself</string>
-    <string name="w590">590.prehensile</string>
-    <string name="m590">capable of grasping</string>
-    <string name="w591">591.premonition</string>
-    <string name="m591">forewarning; presentiment</string>
-    <string name="w592">592.presage</string>
-    <string name="m592">to foretell; indicate in advance</string>
-    <string name="w593">593.presumptuous</string>
-    <string name="m593">rude; improperly bold</string>
-    <string name="w594">594.preternatural</string>
-    <string name="m594">supernatural; beyond the normal use of nature</string>
-    <string name="w595">595.prevaricate</string>
-    <string name="m595">to quibble; evade the truth</string>
-    <string name="w596">596.primordial</string>
-    <string name="m596">original; existing from the beginning</string>
-    <string name="w597">597.pristine</string>
-    <string name="m597">untouched; uncorrupted</string>
-    <string name="w598">598.probity</string>
-    <string name="m598">honesty; high-mindness</string>
-    <string name="w599">599.problematic</string>
-    <string name="m599">posing a problem; doubtful</string>
-    <string name="w600">600.prodigal</string>
-    <string name="m600">wasteful; extravagant; lavish</string>
-    <string name="w601">601.profound</string>
-    <string name="m601">deep, not superficial</string>
-    <string name="w602">602.prohibitive</string>
-    <string name="m602">so high as to prevent the purchase or use of, forbidding</string>
-    <string name="w603">603.proliferate</string>
-    <string name="m603">to increase rapidly</string>
-    <string name="w604">604.propensity</string>
-    <string name="m604">inclination, tendency</string>
-    <string name="w605">605.propitiate</string>
-    <string name="m605">to win over, appease</string>
-    <string name="w606">606.propriety</string>
-    <string name="m606">correct conduct, fitness</string>
-    <string name="w607">607.proscribe</string>
-    <string name="m607">to condemn, forbid, outlaw</string>
-    <string name="w608">608.provident</string>
-    <string name="m608">providing for future need, frugal</string>
-    <string name="w609">609.puissant</string>
-    <string name="m609">powerful</string>
-    <string name="w610">610.punctilious</string>
-    <string name="m610">careful in observing rules of behavior</string>
-    <string name="w611">611.pungent</string>
-    <string name="m611">penetrating, caustic, to the point</string>
-    <string name="w612">612.purport</string>
-    <string name="m612">to profess, suppose, claim</string>
-    <string name="w613">613.pusillanimous</string>
-    <string name="m613">cowardly</string>
-
-    <string name="w614">614.quagmire</string>
-    <string name="m614">marsh, difficult situation</string>
-    <string name="w615">615.quail</string>
-    <string name="m615">to cower, lose heart</string>
-    <string name="w616">616.qualified</string>
-    <string name="m616">limited, restricted</string>
-    <string name="w617">617.qualm</string>
-    <string name="m617">sudden feeling of faintness or nausea</string>
-    <string name="w618">618.query</string>
-    <string name="m618">question</string>
-    <string name="w619">619.quibble</string>
-    <string name="m619">to argue over insignificant and irrelevant details</string>
-    <string name="w620">620.quiescent</string>
-    <string name="m620">inactive, still</string>
-    <string name="w621">621.quorum</string>
-    <string name="m621">number of member necessary to conduct a meeting</string>
-
-    <string name="w622">622.raconteur</string>
-    <string name="m622">witty, skillful storyteller</string>
-    <string name="w623">623.0rail</string>
-    <string name="m623">to scold with bitter or abusive language</string>
-    <string name="w624">624.raimen</string>
-    <string name="m624">clothing</string>
-    <string name="w625">625.ramification</string>
-    <string name="m625">implication, consequence</string>
-    <string name="w626">626.rarefied</string>
-    <string name="m626">refined</string>
-    <string name="w627">627.rationale</string>
-    <string name="m627">fundamental reason</string>
-    <string name="w628">628.rebu</string>
-    <string name="m628">puzzle in whic pictures or symbols represent words</string>
-    <string name="w629">629.recalcitrant</string>
-    <string name="m629">resisting authority or control</string>
-    <string name="w630">630.recant</string>
-    <string name="m630">retract a statement of opinion</string>
-    <string name="w631">631.recluse</string>
-    <string name="m631">person who lives in seclusion and often in solitude</string>
-    <string name="w632">632.recondite</string>
-    <string name="m632">abstruse, profound</string>
-    <string name="w633">633.redoubtable</string>
-    <string name="m633">formidable, arousing fear</string>
-    <string name="w634">634.refractory</string>
-    <string name="m634">stubborn, resisting ordinary methods of treatment</string>
-    <string name="w635">635.refulgent</string>
-    <string name="m635">brightly shining, resplendent</string>
-    <string name="w636">636.refute</string>
-    <string name="m636">to contradict, disprove</string>
-    <string name="w637">637.regale</string>
-    <string name="m637">to entertain</string>
-    <string name="w638">638.relegate</string>
-    <string name="m638">to consign to an inferior position</string>
-    <string name="w639">639.remonstrate</string>
-    <string name="m639">to object or protest</string>
-    <string name="w640">640.renege</string>
-    <string name="m640">to go back on one\'s word</string>
-    <string name="w641">641.reparation</string>
-    <string name="m641">amends, compensation</string>
-    <string name="w642">642.repine</string>
-    <string name="m642">fret, complain</string>
-    <string name="w643">643.reprise</string>
-    <string name="m643">repetition, especially of a piece of music</string>
-    <string name="w644">644.reproach</string>
-    <string name="m644">to find fault with, blame</string>
-    <string name="w645">645.reprobate</string>
-    <string name="m645">morally unprincipled person</string>
-    <string name="w646">646.repudiate</string>
-    <string name="m646">to reject as having no authority</string>
-    <string name="w647">647.rescind</string>
-    <string name="m647">to cancel</string>
-    <string name="w648">648.resolution</string>
-    <string name="m648">determination, resolve</string>
-    <string name="w649">649.resolve</string>
-    <string name="m649">determination, firmness of purpose</string>
-    <string name="w650">650.reticent</string>
-    <string name="m650">nor speaking freely, reserved, reluctant</string>
-    <string name="w651">651.reverent</string>
-    <string name="m651">expressing deep respect, worshipful</string>
-    <string name="w652">652.riposte</string>
-    <string name="m652">retaliatory action or retort</string>
-    <string name="w653">653.rococo</string>
-    <string name="m653">excessively ornate</string>
-    <string name="w654">654.rubric</string>
-    <string name="m654">protocol, title or heading</string>
-    <string name="w655">655.rue</string>
-    <string name="m655">regret</string>
-    <string name="w656">656.ruse</string>
-    <string name="m656">trick, crafty stratagem</string>
-
-    <string name="w657">657.sage</string>
-    <string name="m657">wise</string>
-    <string name="w658">658.salacious</string>
-    <string name="m658">lascivious, lustful</string>
-    <string name="w659">659.salubrious</string>
-    <string name="m659">healthful</string>
-    <string name="w660">660.salutary</string>
-    <string name="m660">expecting an improvement, favorable to health</string>
-    <string name="w661">661.sanction</string>
-    <string name="m661">to approve, ratify, permit</string>
-    <string name="w662">662.sardonic</string>
-    <string name="m662">cynical, scornfully mocking</string>
-    <string name="w663">663.sartorial</string>
-    <string name="m663">pertaining to tailors</string>
-    <string name="w664">664.satiate</string>
-    <string name="m664">to satisfy</string>
-    <string name="w665">665.saturate</string>
-    <string name="m665">imbue throughout,  soak thoroughly</string>
-    <string name="w666">666.saturnine</string>
-    <string name="m666">gloomy</string>
-    <string name="w667">667.satyr</string>
-    <string name="m667">a creature that is half-man, half beast, with the horns and legs of a goat</string>
-    <string name="w668">668.savor</string>
-    <string name="m668">to enjoy, have a distinctive flavor or smell</string>
-    <string name="w669">669.schematic</string>
-    <string name="m669">relating to or in the form of an outline or diagram</string>
-    <string name="w670">670.secrete</string>
-    <string name="m670">produce and release substance into organism</string>
-    <string name="w671">671.sedition</string>
-    <string name="m671">behavior  prompting  rebellion</string>
-    <string name="w672">672.sedulous</string>
-    <string name="m672">diligent, assiduous</string>
-    <string name="w673">673.seismic</string>
-    <string name="m673">relating to earthquakes</string>
-    <string name="w674">674.sensual</string>
-    <string name="m674">relating to the senses, gratifying the physical (sexual) senses</string>
-    <string name="w675">675.sensuous</string>
-    <string name="m675">relating to the senses</string>
-    <string name="w676">676.sentient</string>
-    <string name="m676">aware, conscious, able to perceive</string>
-    <string name="w677">677.servile</string>
-    <string name="m677">submissive, obedient</string>
-    <string name="w678">678.sextant</string>
-    <string name="m678">navigation tool that determines latitude and longitude</string>
-    <string name="w679">679.shard</string>
-    <string name="m679">a piece of broken glass or pottery</string>
-    <string name="w680">680.sidereal</string>
-    <string name="m680">relating to the stars</string>
-    <string name="w681">681.simian</string>
-    <string name="m681">apelike, relating to apes</string>
-    <string name="w682">682.simile</string>
-    <string name="m682">comparison of one thing with another using "like" or "as"</string>
-    <string name="w683">683.sinecure</string>
-    <string name="m683">well-paying job that requires little or no work</string>
-    <string name="w684">684.singular</string>
-    <string name="m684">unique, extraordinary, odd</string>
-    <string name="w685">685.sinuous</string>
-    <string name="m685">intricate, complex</string>
-    <string name="w686">686.skeptic</string>
-    <string name="m686">one who doubts</string>
-    <string name="w687">687.sobriety</string>
-    <string name="m687">seriousness</string>
-    <string name="w688">688.sodden</string>
-    <string name="m688">thoroughly soaked, saturated</string>
-    <string name="w689">689.solicitous</string>
-    <string name="m689">concerned, attentive, eager</string>
-    <string name="w690">690.soliloquy</string>
-    <string name="m690">literary or dramatic speech by one character, not addressed to others</string>
-    <string name="w691">691.solvent</string>
-    <string name="m691">able to meet financial obligations</string>
-    <string name="w692">692.somatic</string>
-    <string name="m692">relating to or affecting the body, corporeal</string>
-    <string name="w693">693.soporific</string>
-    <string name="m693">sleep producing</string>
-    <string name="w694">694.sordid</string>
-    <string name="m694">filthy, contemptible and corrupt</string>
-    <string name="w695">695.specious</string>
-    <string name="m695">seeming to be logical and sound, but not really so</string>
-    <string name="w696">696.spectrum</string>
-    <string name="m696">band of color, broad range of related ideas or objects</string>
-    <string name="w697">697.spendthrift</string>
-    <string name="m697">person who spends money recklessly</string>
-    <string name="w698">698.sporadic</string>
-    <string name="m698">irregular</string>
-    <string name="w699">699.squalor</string>
-    <string name="m699">filthy, wretched condition</string>
-    <string name="w700">700.staccato</string>
-    <string name="m700">marked by abrupt, clear-cut sounds</string>
-    <string name="w701">701.stanch</string>
-    <string name="m701">to stop or check the flow of</string>
-    <string name="w702">702.stentorian</string>
-    <string name="m702">extremely loud</string>
-    <string name="w703">703.stigma</string>
-    <string name="m703">mark of disgrace or inferiority</string>
-    <string name="w704">704.stint</string>
-    <string name="m704">to be sparing</string>
-    <string name="w705">705.stipulate</string>
-    <string name="m705">to specify as an essential condition</string>
-    <string name="w706">706.stolid</string>
-    <string name="m706">having or showing little emotion</string>
-    <string name="w707">707.stratified</string>
-    <string name="m707">arranged in layers</string>
-    <string name="w708">708.striated</string>
-    <string name="m708">marked with thin, narrow grooves or channels</string>
-    <string name="w709">709.stricture</string>
-    <string name="m709">something that restrains, negative criticism</string>
-    <string name="w710">710.strident</string>
-    <string name="m710">loud, harsh, unpleasantly noisy</string>
-    <string name="w711">711.strut</string>
-    <string name="m711">to swagger, display to impress others</string>
-    <string name="w712">712.stultify</string>
-    <string name="m712">to impair or reduce to uselessness</string>
-    <string name="w713">713.stupefy</string>
-    <string name="m713">to dull the senses of, stun, astonish</string>
-    <string name="w714">714.stygian</string>
-    <string name="m714">dark and gloomy, hellish</string>
-    <string name="w715">715.subpoena</string>
-    <string name="m715">notice ordering someone to appear in court</string>
-    <string name="w716">716.subside</string>
-    <string name="m716">to settle down, grow quiet</string>
-    <string name="w717">717.substantiate</string>
-    <string name="m717">to support with proof or evidence</string>
-    <string name="w718">718.substantive</string>
-    <string name="m718">essential</string>
-    <string name="w719">719.subsume</string>
-    <string name="m719">to include, incorporate</string>
-    <string name="w720">720.subversive</string>
-    <string name="m720">intended to undermine or underthrown, especially an established government</string>
-    <string name="w721">721.succor</string>
-    <string name="m721">relief, help in time of distress or want</string>
-    <string name="w722">722.suffrage</string>
-    <string name="m722">the right to vote</string>
-    <string name="w723">723.sundry</string>
-    <string name="m723">various</string>
-    <string name="w724">724.supersede</string>
-    <string name="m724">to replace, especially to displace as inferior or antiquated</string>
-    <string name="w725">725.supine</string>
-    <string name="m725">lying in the back, marked by lethargy</string>
-    <string name="w726">726.supplant</string>
-    <string name="m726">to replace, substitute</string>
-    <string name="w727">727.suppliant</string>
-    <string name="m727">beseeching</string>
-    <string name="w728">728.supplicant</string>
-    <string name="m728">one who asks humbly and earnestly</string>
-    <string name="w729">729.supposition</string>
-    <string name="m729">the act of assuming to be true or real</string>
-    <string name="w730">730.syllogism</string>
-    <string name="m730">a form of deductive reasoning with a major premise, a minor premise, and a conclusion</string>
-    <string name="w731">731.sylvan</string>
-    <string name="m731">related to the woods or forest</string>
-
-    <string name="w732">732.tacit</string>
-    <string name="m732">silently understood, implied</string>
-    <string name="w733">733.talisman</string>
-    <string name="m733">charm to bring good luck and avert misfortune</string>
-    <string name="w734">734.tangential</string>
-    <string name="m734">peripheral, irrelevant, digressing</string>
-    <string name="w735">735.tautology</string>
-    <string name="m735">unnecessary repetition</string>
-    <string name="w736">736.taxonomy</string>
-    <string name="m736">science of classification</string>
-    <string name="w737">737.tenet</string>
-    <string name="m737">belief, doctrine</string>
-    <string name="w738">738.tenuous</string>
-    <string name="m738">weak, insubstantial</string>
-    <string name="w739">739.terrestrial</string>
-    <string name="m739">earthly, commonplace</string>
-    <string name="w740">740.theocracy</string>
-    <string name="m740">government by priests representing a god</string>
-    <string name="w741">741.thespian</string>
-    <string name="m741">an actor or actress</string>
-    <string name="w742">742.timbre</string>
-    <string name="m742">voice tone color</string>
-    <string name="w743">743.tirade</string>
-    <string name="m743">long, violent speech, verbal assault</string>
-    <string name="w744">744.toady</string>
-    <string name="m744">flatterer, yes-man</string>
-    <string name="w745">745.tome</string>
-    <string name="m745">book, usually large and academic</string>
-    <string name="w746">746.torpor</string>
-    <string name="m746">lethargy, dormancy, sluggishness</string>
-    <string name="w747">747.torque</string>
-    <string name="m747">a turning or twisting force</string>
-    <string name="w748">748.tortuous</string>
-    <string name="m748">having many twists and turns, highly complex</string>
-    <string name="w749">749.tout</string>
-    <string name="m749">to promote or praise energetically</string>
-    <string name="w750">750.tractable</string>
-    <string name="m750">obedient, yielding</string>
-    <string name="w751">751.transgression</string>
-    <string name="m751">act of trespassing or violating a law or rule</string>
-    <string name="w752">752.transient</string>
-    <string name="m752">temporary, fleeting</string>
-    <string name="w753">753.translucent</string>
-    <string name="m753">partially transparent</string>
-    <string name="w754">754.travail</string>
-    <string name="m754">work, especially arduous work</string>
-    <string name="w755">755.travesty</string>
-    <string name="m755">parody, exaggerated imitation, caricature</string>
-    <string name="w756">756.treatise</string>
-    <string name="m756">article treating a subject systematically and thoroughly</string>
-    <string name="w757">757.tremulous</string>
-    <string name="m757">trembling, frugal, timid</string>
-    <string name="w758">758.trepidation</string>
-    <string name="m758">fear and anxiety</string>
-    <string name="w759">759.truculence</string>
-    <string name="m759">aggressiveness, ferocity</string>
-    <string name="w760">760.tryst</string>
-    <string name="m760">agreement between lovest to meet, rendez-vous</string>
-    <string name="w761">761.tumid</string>
-    <string name="m761">swollen, distended</string>
-    <string name="w762">762.turbid</string>
-    <string name="m762">muddy, opaque, in a state of great confusion</string>
-    <string name="w763">763.turgid</string>
-    <string name="m763">swollen, pompous</string>
-    <string name="w764">764.tutelary</string>
-    <string name="m764">serving as a guardian or protector</string>
-
-    <string name="w765">765.uncanny</string>
-    <string name="m765">mysterious, strange</string>
-    <string name="w766">766.undulating</string>
-    <string name="m766">moving in waves</string>
-    <string name="w767">767.unfeigned</string>
-    <string name="m767">not false, genuine</string>
-    <string name="w768">768.untenable</string>
-    <string name="m768">indefensible</string>
-    <string name="w769">769.untoward</string>
-    <string name="m769">not favorable, troublesome, unruly</string>
-    <string name="w770">770.usury</string>
-    <string name="m770">a practice of lending money at exorbitant rates</string>
-
-    <string name="w771">771.vacillate</string>
-    <string name="m771">to waver, oscillate</string>
-    <string name="w772">772.vacuous</string>
-    <string name="m772">empty, void, lacking intelligence</string>
-    <string name="w773">773.valedictory</string>
-    <string name="m773">pertaining to a farewell</string>
-    <string name="w774">774.vapid</string>
-    <string name="m774">tasteless, dull</string>
-    <string name="w775">775.variegated</string>
-    <string name="m775">varied, marked with different colors</string>
-    <string name="w776">776.vaunt</string>
-    <string name="m776">to boast, drag</string>
-    <string name="w777">777.venal</string>
-    <string name="m777">mercenary, corruptible</string>
-    <string name="w778">778.vendetta</string>
-    <string name="m778">prolonged feud marked by bitter hostility</string>
-    <string name="w779">779.venerate</string>
-    <string name="m779">to adore, honor, respect</string>
-    <string name="w780">780.veracious</string>
-    <string name="m780">truthful, accurate</string>
-    <string name="w781">781.verbose</string>
-    <string name="m781">wordy</string>
-    <string name="w782">782.vertigo</string>
-    <string name="m782">dizziness</string>
-    <string name="w783">783.vexation</string>
-    <string name="m783">irritation, annoyance</string>
-    <string name="w784">784.viable</string>
-    <string name="m784">practicable, capable of developing</string>
-    <string name="w785">785.vindictive</string>
-    <string name="m785">vengeful, unforgiving</string>
-    <string name="w786">786.virtuoso</string>
-    <string name="m786">someone with master skills, expert musician</string>
-    <string name="w787">787.visage</string>
-    <string name="m787">appearance, aspect</string>
-    <string name="w788">788.viscous</string>
-    <string name="m788">thick, syrupy</string>
-    <string name="w789">789.vitiate</string>
-    <string name="m789">to impair the quality of, corrupt morally</string>
-    <string name="w790">790.vituperative</string>
-    <string name="m790">using or containing harsh, abusive censure</string>
-    <string name="w791">791.vivisection</string>
-    <string name="m791">dissection, surgery, or painful experiments performed on a living animal for the purpose of scientific research</string>
-    <string name="w792">792.vogue</string>
-    <string name="m792">prevailing fashion or practice</string>
-    <string name="w793">793.volatile</string>
-    <string name="m793">tending to vary frequently, fickle</string>
-    <string name="w794">794.vortex</string>
-    <string name="m794">whirlpool, center of turbulence</string>
-
-    <string name="w795">795.warranted</string>
-    <string name="m795">justified</string>
-    <string name="w796">796.wary</string>
-    <string name="m796">careful, cautious</string>
-    <string name="w797">797.welter</string>
-    <string name="m797">wallow or roll, toss about, be in turmoil</string>
-    <string name="w798">798.whimsical</string>
-    <string name="m798">fanciful, unpredictable</string>
-    <string name="w799">799.wistful</string>
-    <string name="m799">vaguely longing, sadly thoughtful</string>
-
-    <string name="w800">800.zealot</string>
+<string-array name="meanings">
+    <item> to decrease; reduce</item>
+    <item>to give up a position, right, or power</item>
+    <item>deviating from what is normal </item>
+    <item>temporary suppression or suspension </item>
+    <item>miserable; pitiful </item>
+    <item>to reject; abandon formally </item>
+    <item>the act of cutting; the natural separation of a leaf or other part of a plant </item>
+    <item>to depart secretly</item>
+    <item>moderate in appetite</item>
+    <item>the giving up of certain pleasures </item>
+    <item>very bad </item>
+    <item>growth in size or increase in amount </item>
+    <item>to accumulate; grow by additions </item>
+    <item>uncompromising; unyielding</item>
+    <item>something added, attached, or joined </item>
+    <item>to caution or reprimand</item>
+    <item>to corrupt or make impure</item>
+    <item>relating to beauty or the arts</item>
+    <item>pretentious; phony</item>
+    <item>fondness; liking; similarity</item>
+    <item>to make larger or greater</item>
+    <item>amounting to a whole; total</item>
+    <item>cheerful willingness; eagerness; speed</item>
+    <item>medieval chemical philosophy based on changing metal into gold; a seemingly magical power or process of      transmutation</item>
+    <item>to lessen; ease; soothe</item>
+    <item>to relieve; improve partially</item>
+    <item>a combination; a mixture of two or more metals</item>
+    <item>the power to entice by charm</item>
+    <item>to combine into a unified whole</item>
+    <item>unclear or doubtful in meaning</item>
+    <item>the state of having conflicting emotional attitudes</item>
+    <item>something delicious; the food of the gods</item>
+    <item>to improve</item>
+    <item>agreeable; cooperative; suited</item>
+    <item>something that increases comfort</item>
+    <item>ornament worn as a charm against evil spirits</item>
+    <item>something out of the proper time</item>
+    <item>medication that reduces or eliminates pain</item>
+    <item>comparable</item>
+    <item>absence of government; state of disorder</item>
+    <item>something that calms or soothes pain</item>
+    <item>irregular; deviating from the norm</item>
+    <item>something that comes before</item>
+    <item>prehistoric</item>
+    <item>dislike; hostility</item>
+    <item>indifference</item>
+    <item>the highest point</item>
+    <item>the point in an orbit most distant from the body being orbited; the highest point</item>
+    <item>a terse, witty saying</item>
+    <item>to calm, pacify, placate</item>
+    <item>name</item>
+    <item>strikingly appropriate and relevant</item>
+    <item>to inform</item>
+    <item>praise, approval</item>
+    <item>to take possession of for one\'s own use; confiscate</item>
+    <item>relevant</item>
+    <item>ornate design featuring intertwined curves; a ballet position in which one leg is extended in back while the other supports the weight of the body</item>
+    <item>the study of material evidence of past human life</item>
+    <item>great emotion or passion</item>
+    <item>extremely difficult; laborious</item>
+    <item>a specialized vocabulary used by a group</item>
+    <item>to stop; to seize</item>
+    <item>item made by human craft</item>
+    <item>guileless; natural</item>
+    <item>one who practices self-denial</item>
+    <item>severity; harshness; irritability</item>
+    <item>slander; false rumor</item>
+    <item>diligent; hard-working</item>
+    <item>to make less severe</item>
+    <item>harsh; severe</item>
+    <item>place of refuge or shelter</item>
+    <item>in biology, the reappearance of a characteristic in an organism after several generations of absence; individual or a part that exhibits atavism; return of a trait after a period of absence</item>
+    <item>to weaken</item>
+    <item>bold; daring</item>
+    <item>stern; unadorned; simple</item>
+    <item>self-governing; independent</item>
+    <item>greed</item>
+    <item>to affirm; declare to be true</item>
+    <item>secondary occupation</item>
+    <item>like an uncle, benevolent and tolerant</item>
+    <item>taken for granted; self-evident truth</item>
+    <item>pertaining to riotous or drunken festivity; pertaining to revelry</item>
+    <item>commonplace; trite</item>
+    <item>playful conversation</item>
+    <item>poet</item>
+    <item>obscene</item>
+    <item>to sanctify; to bless; to ascribe a virtue to</item>
+    <item>to dress in a vulgar, showy manner</item>
+    <item>huge creature; anything very large and powerful</item>
+    <item>to contradict; misrepresent; give a false impression</item>
+    <item>kindly; doing good</item>
+    <item>to divide into two parts</item>
+    <item>flattery</item>
+    <item>bored because of frequent indulgence; unconcerned</item>
+    <item>to give a boost to; prop up; support</item>
+    <item>pompous; using inflated language</item>
+    <item>rude; insensitive</item>
+    <item>cow like</item>
+    <item>bold; shameless</item>
+    <item>to mention for the first time</item>
+    <item>characteristic of the countryside; rustic; pastoral</item>
+    <item>to grow and flourish</item>
+    <item>to polish</item>
+    <item>to reinforce; support</item>
+    <item>unpleasant or harsh-sounding </item>
+    <item>to beg; sponge</item>
+    <item>thick-skinned; insensitive</item>
+    <item>false and malicious accusation; slander</item>
+    <item>false; deliberately misleading story</item>
+    <item>an established set of principles; a basis or standard for judgment; a group of literary works</item>
+    <item>insincere talk; language of a particular group</item>
+    <item>irritable; ill-humored</item>
+    <item>fickle</item>
+    <item>faultfinding; intended to entrap, as in an argument</item>
+    <item>of foremost importance</item>
+    <item>of the flesh or body; related to physical appetites</item>
+    <item>to find fault; complain</item>
+    <item>science of making maps</item>
+    <item>any of the hereditary social classes in Hindu society; social stratification</item>
+    <item>punishment; chastisement; criticism</item>
+    <item>a violent upheaval that causes great destruction and change</item>
+    <item>something that causes change</item>
+    <item>absolute; without exception</item>
+    <item>smaller group within an organization</item>
+    <item>involving a cause</item>
+    <item>burning; stinging; causing corrosion</item>
+    <item>concerned with sky or heavens; sublime</item>
+    <item>moving away from a center</item>
+    <item>moving or directed toward a center</item>
+    <item>to defend or support</item>
+    <item>to correct by punishment or reproof; to restrain or subdue</item>
+    <item>trickery; fraud</item>
+    <item>the qualities idealized by knighthood such as bravery and gallantry toward women</item>
+    <item>rude; boorish</item>
+    <item>roundabout</item>
+    <item>one who can predict the future; psychic</item>
+    <item>noisy outcry</item>
+    <item>a small, exclusive group</item>
+    <item>to confine; seclude</item>
+    <item>thicken; congeal</item>
+    <item>to cause to become one</item>
+    <item>concluding part of a literary or musical composition; something that summarizes or concludes</item>
+    <item>to systematize</item>
+    <item>informed; conscious; aware</item>
+    <item>artistic composition of materials pasted over a surface; an assemblage of diverse elements</item>
+    <item>proportional</item>
+    <item>brief, comprehensive summary</item>
+    <item>self-satisfied</item>
+    <item>overly polite; willingness to comply with the wishes of others</item>
+    <item>something that completes or makes up a whole</item>
+    <item>yielding</item>
+    <item>uneasiness caused by guilt</item>
+    <item>curving inward</item>
+    <item>overcoming distrust or hostility</item>
+    <item>to invent</item>
+    <item>existing concurrently</item>
+    <item>to overlook voluntarily; forgive</item>
+    <item>to baffle; perplex; mix up</item>
+    <item>similar in tastes and habits; friendly; suited to</item>
+    <item>pertaining to marriage agreement</item>
+    <item>expert in matters of taste; expert knowledge or training</item>
+    <item>a person compulsorily enrolled for military service</item>
+    <item>to declare sacred</item>
+    <item>to assert</item>
+    <item>quarrelsome; causing quarrels</item>
+    <item>touching; neighboring; connecting without a break</item>
+    <item>self-control; abstention from sexual activity</item>
+    <item>very sorrowful for a wrong; seeking forgiveness</item>
+    <item>disobedient; rebellious</item>
+    <item>riddle; puzzle with no solution</item>
+    <item>practice widely observed in a group; custom; accepted technique or device</item>
+    <item>to approach; come together; tend to meet</item>
+    <item>curved outward</item>
+    <item>sociable</item>
+    <item>twisted; complicated</item>
+    <item>abundant; plentiful</item>
+    <item>woman who flirts</item>
+    <item>horn overflowing with fruit and grain; state of abundance</item>
+    <item>study of the universe as a totality; theory of the origin and structure of the universe</item>
+    <item>hidden; secret</item>
+    <item>desiring something owned by another</item>
+    <item>to mislead by trick or fraud; deceive</item>
+    <item>cowardly</item>
+    <item>acceptance of something as true</item>
+    <item>statement of belief or principle; creed</item>
+    <item>to discourage; intimidate; dishearten</item>
+    <item>scarcity</item>
+    <item>corruption</item>
+    <item>proper behavior</item>
+    <item>to malign; harm someone\'s reputation</item>
+    <item>to fail to act</item>
+    <item>respect; regard for another\'s wish</item>
+    <item>no longer existing</item>
+    <item>to represent or depict</item>
+    <item>related to population balance</item>
+    <item>pertaining to people</item>
+    <item>to express doubt; question or oppose</item>
+    <item>to slur someone\'s reputation</item>
+    <item>an inhabitant; a regular visitor</item>
+    <item>outcome; unraveling of the plot of a play or work of literature</item>
+    <item>to mock</item>
+    <item>something derived; unoriginal</item>
+    <item>to dry completely</item>
+    <item>state of disuse</item>
+    <item>random; disconnected; rambling</item>
+    <item>something that discourages or hinders</item>
+    <item>the act of taking away</item>
+    <item>transparent; vague; insubstantial</item>
+    <item>bitter verbal attack </item>
+    <item>division into two usually contradictory parts</item>
+    <item>shyness; lack of confidence</item>
+    <item>to spread out</item>
+    <item>act of straying from the main point</item>
+    <item>funeral hymn</item>
+    <item>free from a misconception</item>
+    <item>perceptive; exhibiting keen insight and good judgment</item>
+    <item>to make uneasy; disconcert</item>
+    <item>not in tune</item>
+    <item>to dishonor; disgrace</item>
+    <item>difference between</item>
+    <item>constituting a separate thing; distinct</item>
+    <item>quality of showing self-restraint in speech or actions</item>
+    <item>not candid, crafty</item>
+    <item>unprejudiced; objective</item>
+    <item>lacking order or coherence; dislocated</item>
+    <item>put away from consideration; reject</item>
+    <item>to belittle</item>
+    <item>dissimilar</item>
+    <item>to pretend; disguise one\'s motives</item>
+    <item>to spread; scatter; disperse</item>
+    <item>person who disagrees about beliefs</item>
+    <item>disintegration; debauchery</item>
+    <item>discord; lack of harmony</item>
+    <item>to expand; swell out</item>
+    <item>extract the essential elements</item>
+    <item>inattentive; preoccupied</item>
+    <item>to vary; go in different directions from the same point</item>
+    <item>to strip; deprive; rid</item>
+    <item>to make known something that is secret</item>
+    <item>dogmatic; unyielding</item>
+    <item>to provide with written evidence to support</item>
+    <item>poor verse</item>
+    <item>stating opinions without proof</item>
+    <item>inactive</item>
+    <item>waste; worthless matter</item>
+    <item>to deceive; trick</item>
+    <item>exhilarated; overly enthusiastic</item>
+    <item>selecting from various sources</item>
+    <item>state of high spirits or liveliness; process of bubbling as gas escapes</item>
+    <item>depleted of vitality; over refined; decadent</item>
+    <item>effectiveness; efficiency</item>
+    <item>shameless boldness; presumptuousness</item>
+    <item>the tendency to see things in relation to oneself; self-centeredness</item>
+    <item>excessively self-centered; conceited</item>
+    <item>poem or song expressing lamentation</item>
+    <item>to provoke; draw out</item>
+    <item>a substance believed to have the power to cure ills</item>
+    <item>delightful; blissful</item>
+    <item>thin and wasted</item>
+    <item>to adorn; enhance</item>
+    <item>soothing; mollifying</item>
+    <item>derived from observation or experiment</item>
+    <item>to imitate; copy</item>
+    <item>a formal expression of praise</item>
+    <item>inherent; belonging to an area</item>
+    <item>to weaken</item>
+    <item>to cause; produce</item>
+    <item>to increase; improve</item>
+    <item>the scientific study of insects</item>
+    <item>to pronounce clearly</item>
+    <item>short-lived; fleeting</item>
+    <item>branch of philosophy that examines the nature of knowledge</item>
+    <item>steady; unvarying; serene</item>
+    <item>composure; calmness</item>
+    <item>intentionally use vague language</item>
+    <item>mistaken; straying from the proper course</item>
+    <item>learned; scholarly</item>
+    <item>hard to understand; known only to a few</item>
+    <item>to make an attempt; subject to a test</item>
+    <item>admirable; possible to estimate</item>
+    <item>based on the attitude that one\'s group is superior</item>
+    <item>causes or origins</item>
+    <item>origin an history of a word</item>
+    <item>study of factors that influence the hereditary qualities of the human race and ways to improve those qualities</item>
+    <item>high praise to a death person</item>
+    <item>use of agreeable or inoffensive language in place of offensive language</item>
+    <item>feeling of extreme happiness</item>
+    <item>mercy killing</item>
+    <item>to show plainly; be an indication of</item>
+    <item>tending to call to mind or produce a reaction</item>
+    <item>to aggravate; make worse</item>
+    <item>to force the payment of; demand and obtain by authority</item>
+    <item>to clear of blame; vindicate</item>
+    <item>detestable;  abhorrent</item>
+    <item>to urge by strong appeals</item>
+    <item>crisis; urgent requirements</item>
+    <item>having to do with existence</item>
+    <item>to expel evil spirits; free from bad influences</item>
+    <item>to speak or write at length</item>
+    <item>to send into exile</item>
+    <item>to atone for</item>
+    <item>to explain; interpret; clarify</item>
+    <item>explanatory</item>
+    <item>in existence; not lost</item>
+    <item>unrehearsed</item>
+    <item>to root up; to destroy</item>
+    <item>not essential</item>
+    <item>the act of estimation by projecting known information</item>
+    <item>not inherent of essential</item>
+    <item>humorous</item>
+    <item>to make less difficult</item>
+    <item>a person who does all sorts of work; a handyman</item>
+    <item>based on a false idea or fact; misleading</item>
+    <item>plowed but not sowed; uncultivated</item>
+    <item>foolishly self-satisfied</item>
+    <item>animals of a period o region</item>
+    <item>seeking flavor by flattering</item>
+    <item>suitable expressed; wee-chose; appropriate</item>
+    <item>existing in a wild or untamed state</item>
+    <item>warmth and intensity of emotion</item>
+    <item>having a bad smell</item>
+    <item>to bind; confine</item>
+    <item>arbitrary  order; authorization</item>
+    <item>loyalty; exact correspondence</item>
+    <item>use of obstructive tactics in a legislature to block passage of a law</item>
+    <item>to handle with a deceptive or evasive strategy; refined in performance</item>
+    <item>crevice</item>
+    <item>to droop; grow weak</item>
+    <item>beginner; novice</item>
+    <item>plants of a region or era</item>
+    <item>ruddy; reddish; flowery</item>
+    <item>an embellishment or ornamentation</item>
+    <item>to treat scornfully</item>
+    <item>flowing; a continuous moving</item>
+    <item>to incite; arouse</item>
+    <item>patience</item>
+    <item>to prevent; delay</item>
+    <item>menacing; threatening</item>
+    <item>renounce; repudiate</item>
+    <item>to sink; fail; collapse</item>
+    <item>a loud quarrel; brawl</item>
+    <item>quarrelsome; unruly; rebellious</item>
+    <item>a painting done on plaster</item>
+    <item>ornamental band on a wall</item>
+    <item>stubbornly contrary; obstinately disobedient</item>
+    <item>thrift</item>
+    <item>to attack loudly; denounce</item>
+    <item>so excessive as to be disgusting</item>
+    <item>union; synthesis</item>
+    <item>ineffective; useless; fruitless</item>
+    <item>to deny; dispute; oppose</item>
+    <item>to frolic; leap playfully</item>
+    <item>very talkative; wordy</item>
+    <item>coarse and uncouth; clumsy</item>
+    <item>cheerfulness; kindliness; sociability</item>
+    <item>to divide an area into voting districts in a way that favors a political party</item>
+    <item>fluent in an insincere way; offhand</item>
+    <item>to prod; urge on</item>
+    <item>sheer; light and delicate; like cobwebs</item>
+    <item>to tear out; scoop out; overcharge</item>
+    <item>pompous; bombastic</item>
+    <item>outgoing; sociable</item>
+    <item>to complain</item>
+    <item>free of cunning or deceit; artless</item>
+    <item>outward appearance; false appearance</item>
+    <item>easily deceived</item>
+    <item>affecting the sense of taste</item>
+    <item>calm and peaceful; happy; golden; prosperous</item>
+    <item>holy; sacred</item>
+    <item>long, pompous speech; tirade</item>
+    <item>extremely distressing; terrifying</item>
+    <item>an animal that feeds mainly on plants</item>
+    <item>tightly sealed; magical</item>
+    <item>not widely accepted</item>
+    <item>a system of writing in which pictorial symbols represent meanings or sounds; writing or symbols that are difficult to decipher</item>
+    <item>covered with hair</item>
+    <item>relating to exaggerated emotional behavior calculated for effect; theatrical acts or performances</item>
+    <item>automatic maintenance by an organism in balance with itself</item>
+    <item>sermon; tedious moralizing lecture</item>
+    <item>composed of identical parts; uniform in composition</item>
+    <item>purposeful exaggeration for effect</item>
+    <item>attacking cherished traditions</item>
+    <item>idol worship; blind or excessive devotion</item>
+    <item>produced by fire; volcanic</item>
+    <item>complicated situation; an entanglement</item>
+    <item>unchangeable</item>
+    <item>damage; injure</item>
+    <item>showing no emotion</item>
+    <item>poor; having no money</item>
+    <item>to hinder; block</item>
+    <item>impossible to permeate</item>
+    <item>not easily disturbed</item>
+    <item>incapable of being affected; impossible to penetrate</item>
+    <item>to strike; encroach</item>
+    <item>inflexible; incable of being pleased or calmed down</item>
+    <item>unlikely; unbelievable</item>
+    <item>implied; understood but not stated</item>
+    <item>collapse inward violently</item>
+    <item>curse; damnation</item>
+    <item>to attribute the fault to; relate to a particular cause or source</item>
+    <item>carelessly; unintentionally</item>
+    <item>having bodily form</item>
+    <item>imperfectly formed or formulated</item>
+    <item>state of not fitting</item>
+    <item>insignificant; unimportant</item>
+    <item>introduce something into another thing already in existence</item>
+    <item>sudden invasion</item>
+    <item>uncertain; indefinite</item>
+    <item>poverty</item>
+    <item>habitually lazy; idle</item>
+    <item>not to be avoided or escaped; inevitable</item>
+    <item>unable to move; sluggish</item>
+    <item>naive and trusting; lacking sophistication</item>
+    <item>firmly established by nature or habit</item>
+    <item>harmless</item>
+    <item>unconscious; unresponsive</item>
+    <item>to suggest; say indirectly; imply</item>
+    <item>lacking in flavor; dull</item>
+    <item>indifferent; lacking concern or care</item>
+    <item>narrow-mindedness; isolation</item>
+    <item>insurmountable; unconquerable</item>
+    <item>not material</item>
+    <item>to forbid; prohibit</item>
+    <item>deadly to both sides</item>
+    <item>to insert; change by adding new words or material</item>
+    <item>interval between reigns; gap in continuity</item>
+    <item>marked by close acquaintance</item>
+    <item>not easily managed</item>
+    <item>stubbornness; refusal to compromise</item>
+    <item>contemplating one\'s own thoughts and feelings</item>
+    <item>to cover with water, overwhelm</item>
+    <item>hardened; accustomed; used to</item>
+    <item>verbal abuse</item>
+    <item>to disapprove; protest vehemently</item>
+    <item>to win over by flattering or coaxing</item>
+    <item>confirmed; long standing</item>
+    <item>likely to provoke ill will</item>
+    <item>easily angered</item>
+    <item>unsure of how to act; weak</item>
+    <item>wandering from place to place; unsettled</item>
+    <item>route of a traveler\'s journey</item>
+    <item>having a yellowish discoloration of the skin; affected by envy</item>
+    <item>to be in agreement</item>
+    <item>fond of joking; jocular</item>
+    <item>huge force destroying everything in its path</item>
+    <item>group of people united in political intrigue</item>
+    <item>place side by side</item>
+    <item>fame; glory; honor</item>
+    <item>likely to change</item>
+    <item>using few words</item>
+    <item>to trash verbally or physically</item>
+    <item>lustful</item>
+    <item>lethargy; sluggishness</item>
+    <item>dormant; potential not apparent</item>
+    <item>praise</item>
+    <item>inactive</item>
+    <item>an embankment that prevents a river from overflowing</item>
+    <item>light manner or attitude</item>
+    <item>tolerant; broad-minded</item>
+    <item>one without moral restraint</item>
+    <item>sexual desire</item>
+    <item>extremely small</item>
+    <item>to draw, describe</item>
+    <item>clear; transparent</item>
+    <item>pertaining to language</item>
+    <item>lengthy recitation; repetitive chant</item>
+    <item>scholarly of learned persons</item>
+    <item>legal proceedings</item>
+    <item>record of a voyage; record of daily activities</item>
+    <item>talkative</item>
+    <item>bright; clear; intelligible</item>
+    <item>money or profits</item>
+    <item>bright; brilliant; glowing</item>
+    <item>shining</item>
+    <item>crafty; double-dealing</item>
+    <item>plots or schemes</item>
+    <item>whirlpool; turmoil</item>
+    <item>generosity; nobility</item>
+    <item>to speak evil of</item>
+    <item>to feign illness to escape duty
+Nevertheless, paradoxical though it may seem, cases of pure malingering of mental disease are comparatively ________ in actual practice.
+sporadic illogical intermittent obvious contradictory compelling</item>
+    <item>capable of being shaped by pounding; impressionate</item>
+    <item>dissenter</item>
+    <item>delusions of power or importance</item>
+    <item>a variety of animals kept together</item>
+    <item>dishonest</item>
+    <item>beggar</item>
+    <item>gaudy; specious; falsely attractive</item>
+    <item>to hypnotize</item>
+    <item>change; transformation</item>
+    <item>a branch of philosophy that investigates the ultimate nature of reality</item>
+    <item>concerned with the weather</item>
+    <item>very careful; picky; fastidious</item>
+    <item>courage; endurance</item>
+    <item>full of courage and fortitude</item>
+    <item>a small system having analogies to a larger system</item>
+    <item>to work against</item>
+    <item>threatening; menacing</item>
+    <item>very small</item>
+    <item>petty details</item>
+    <item>one who hates humanity; one who dislikes others</item>
+    <item>mixture of writings on various subjects</item>
+    <item>villain; criminal</item>
+    <item>one who hates women</item>
+    <item>alleviate; to become less severe</item>
+    <item>related to memory; assisting memory</item>
+    <item>limited quantity</item>
+    <item>to soothe</item>
+    <item>solid and uniform; constituting a single, unified whole</item>
+    <item>ill-humored; sullen</item>
+    <item>many colored; made up of many parts</item>
+    <item>diverse</item>
+    <item>worldly as opposed to spiritual; concerned with the ordinary</item>
+    <item>black magic</item>
+    <item>to cancel out; nullify</item>
+    <item>new word or expression</item>
+    <item>novice; beginner</item>
+    <item>a means of connection; a center</item>
+    <item>bewildered</item>
+    <item>sentimental longing for a past time</item>
+    <item>medicine or remedy of doubtful effectiveness</item>
+    <item>trifling; invalid</item>
+    <item>stubborn</item>
+    <item>overly submissive</item>
+    <item>funeral ceremony</item>
+    <item>to make unnecessary; to anticipate and prevent</item>
+    <item>to shut; block</item>
+    <item>relating to practices connected with supernatural phenomena</item>
+    <item>a long, adventurous voyage; a quest</item>
+    <item>too helpful; meddlesome</item>
+    <item>concerning the sense of smell</item>
+    <item>form of government in which power belongs to only a few leaders</item>
+    <item>burdensome</item>
+    <item>formation or use of words that imitate sounds of the actions they refer to</item>
+    <item>public disgrace; contempt</item>
+    <item>scientist who studies birds</item>
+    <item>to move back and forth</item>
+    <item>showy; pretentious</item>
+    <item>presumptuous; arrogant</item>
+    <item>song of joy or triumph; a fervent expression of joy</item>
+    <item>study of past geological eras through fossil remains</item>
+    <item>lacking color or liveliness</item>
+    <item>elaborate praise; formal hymn of praise</item>
+    <item>model of perfection or excellence</item>
+    <item>one-sided; committed to a party, group or cause</item>
+    <item>departing from normal condition</item>
+    <item>jargon; a regional dialect</item>
+    <item>scarcity</item>
+    <item>showing off learning</item>
+    <item>transparent; easily understood</item>
+    <item>inclination</item>
+    <item>extreme poverty</item>
+    <item>wandering from place to place</item>
+    <item>imperative; leaving no choice</item>
+    <item>present throughout the years; persistent</item>
+    <item>faithless; disloyal; untrustworthy</item>
+    <item>superficial; performed really as a duty</item>
+    <item>point in an orbit that is closest to the earth</item>
+    <item>penetrable</item>
+    <item>to disturb greatly; make uneasy or anxious</item>
+    <item>spread throughout every part</item>
+    <item>rude; peevish</item>
+    <item>unemotional; calm in temperament</item>
+    <item>anything that is restored after suffering great destruction</item>
+    <item>facial features</item>
+    <item>devoutness</item>
+    <item>pleasantly pungent; attractive</item>
+    <item>fleeting feeling or hurt pride</item>
+    <item>soothe; pacify</item>
+    <item>calm</item>
+    <item>melancholy; mournful</item>
+    <item>pliability; condition of being able to be shaped or formed</item>
+    <item>stale; overused expression</item>
+    <item>spiritual; theoretical</item>
+    <item>excess; overabundance</item>
+    <item>to examine deeply; determine the depth</item>
+    <item>to fall; plunge</item>
+    <item>society ruled by the wealthy</item>
+    <item>full of holes; permeable to liquids</item>
+    <item>person who affects an attitude to impress others</item>
+    <item>practical</item>
+    <item>to talk idly; chatter</item>
+    <item>meaningless, foolish talk</item>
+    <item>preliminary statement</item>
+    <item>uncertain</item>
+    <item>principle; law</item>
+    <item>rash; hasty; sudden; done without deliberation</item>
+    <item>to cause to happen; throw down from a height</item>
+    <item>forerunner; predecessor</item>
+    <item>to supersede; appropriate  for oneself</item>
+    <item>capable of grasping</item>
+    <item>forewarning; presentiment</item>
+    <item>to foretell; indicate in advance</item>
+    <item>rude; improperly bold</item>
+    <item>supernatural; beyond the normal use of nature</item>
+    <item>to quibble; evade the truth</item>
+    <item>original; existing from the beginning</item>
+    <item>untouched; uncorrupted</item>
+    <item>honesty; high-mindness</item>
+    <item>posing a problem; doubtful</item>
+    <item>wasteful; extravagant; lavish</item>
+    <item>deep, not superficial</item>
+    <item>so high as to prevent the purchase or use of, forbidding</item>
+    <item>to increase rapidly</item>
+    <item>inclination, tendency</item>
+    <item>to win over, appease</item>
+    <item>correct conduct, fitness</item>
+    <item>to condemn, forbid, outlaw</item>
+    <item>providing for future need, frugal</item>
+    <item>powerful</item>
+    <item>careful in observing rules of behavior</item>
+    <item>penetrating, caustic, to the point</item>
+    <item>to profess, suppose, claim</item>
+    <item>cowardly</item>
+    <item>marsh, difficult situation</item>
+    <item>to cower, lose heart</item>
+    <item>limited, restricted</item>
+    <item>sudden feeling of faintness or nausea</item>
+    <item>question</item>
+    <item>to argue over insignificant and irrelevant details</item>
+    <item>inactive, still</item>
+    <item>number of member necessary to conduct a meeting</item>
+    <item>witty, skillful storyteller</item>
+    <item>to scold with bitter or abusive language</item>
+    <item>clothing</item>
+    <item>implication, consequence</item>
+    <item>refined</item>
+    <item>fundamental reason</item>
+    <item>puzzle in whic pictures or symbols represent words</item>
+    <item>resisting authority or control</item>
+    <item>retract a statement of opinion</item>
+    <item>person who lives in seclusion and often in solitude</item>
+    <item>abstruse, profound</item>
+    <item>formidable, arousing fear</item>
+    <item>stubborn, resisting ordinary methods of treatment</item>
+    <item>brightly shining, resplendent</item>
+    <item>to contradict, disprove</item>
+    <item>to entertain</item>
+    <item>to consign to an inferior position</item>
+    <item>to object or protest</item>
+    <item>to go back on one\'s word</item>
+    <item>amends, compensation</item>
+    <item>fret, complain</item>
+    <item>repetition, especially of a piece of music</item>
+    <item>to find fault with, blame</item>
+    <item>morally unprincipled person</item>
+    <item>to reject as having no authority</item>
+    <item>to cancel</item>
+    <item>determination, resolve</item>
+    <item>determination, firmness of purpose</item>
+    <item>nor speaking freely, reserved, reluctant</item>
+    <item>expressing deep respect, worshipful</item>
+    <item>retaliatory action or retort</item>
+    <item>excessively ornate</item>
+    <item>protocol, title or heading</item>
+    <item>regret</item>
+    <item>trick, crafty stratagem</item>
+    <item>wise</item>
+    <item>lascivious, lustful</item>
+    <item>healthful</item>
+    <item>expecting an improvement, favorable to health</item>
+    <item>to approve, ratify, permit</item>
+    <item>cynical, scornfully mocking</item>
+    <item>pertaining to tailors</item>
+    <item>to satisfy</item>
+    <item>imbue throughout,  soak thoroughly</item>
+    <item>gloomy</item>
+    <item>a creature that is half-man, half beast, with the horns and legs of a goat</item>
+    <item>to enjoy, have a distinctive flavor or smell</item>
+    <item>relating to or in the form of an outline or diagram</item>
+    <item>produce and release substance into organism</item>
+    <item>behavior  prompting  rebellion</item>
+    <item>diligent, assiduous</item>
+    <item>relating to earthquakes</item>
+    <item>relating to the senses, gratifying the physical (sexual) senses</item>
+    <item>relating to the senses</item>
+    <item>aware, conscious, able to perceive</item>
+    <item>submissive, obedient</item>
+    <item>navigation tool that determines latitude and longitude</item>
+    <item>a piece of broken glass or pottery</item>
+    <item>relating to the stars</item>
+    <item>apelike, relating to apes</item>
+    <item>comparison of one thing with another using "like" or "as"</item>
+    <item>well-paying job that requires little or no work</item>
+    <item>unique, extraordinary, odd</item>
+    <item>intricate, complex</item>
+    <item>one who doubts</item>
+    <item>seriousness</item>
+    <item>thoroughly soaked, saturated</item>
+    <item>concerned, attentive, eager</item>
+    <item>literary or dramatic speech by one character, not addressed to others</item>
+    <item>able to meet financial obligations</item>
+    <item>relating to or affecting the body, corporeal</item>
+    <item>sleep producing</item>
+    <item>filthy, contemptible and corrupt</item>
+    <item>seeming to be logical and sound, but not really so</item>
+    <item>band of color, broad range of related ideas or objects</item>
+    <item>person who spends money recklessly</item>
+    <item>irregular</item>
+    <item>filthy, wretched condition</item>
+    <item>marked by abrupt, clear-cut sounds</item>
+    <item>to stop or check the flow of</item>
+    <item>extremely loud</item>
+    <item>mark of disgrace or inferiority</item>
+    <item>to be sparing</item>
+    <item>to specify as an essential condition</item>
+    <item>having or showing little emotion</item>
+    <item>arranged in layers</item>
+    <item>marked with thin, narrow grooves or channels</item>
+    <item>something that restrains, negative criticism</item>
+    <item>loud, harsh, unpleasantly noisy</item>
+    <item>to swagger, display to impress others</item>
+    <item>to impair or reduce to uselessness</item>
+    <item>to dull the senses of, stun, astonish</item>
+    <item>dark and gloomy, hellish</item>
+    <item>notice ordering someone to appear in court</item>
+    <item>to settle down, grow quiet</item>
+    <item>to support with proof or evidence</item>
+    <item>essential</item>
+    <item>to include, incorporate</item>
+    <item>intended to undermine or underthrown, especially an established government</item>
+    <item>relief, help in time of distress or want</item>
+    <item>the right to vote</item>
+    <item>various</item>
+    <item>to replace, especially to displace as inferior or antiquated</item>
+    <item>lying in the back, marked by lethargy</item>
+    <item>to replace, substitute</item>
+    <item>beseeching</item>
+    <item>one who asks humbly and earnestly</item>
+    <item>the act of assuming to be true or real</item>
+    <item>a form of deductive reasoning with a major premise, a minor premise, and a conclusion</item>
+    <item>related to the woods or forest</item>
+    <item>silently understood, implied</item>
+    <item>charm to bring good luck and avert misfortune</item>
+    <item>peripheral, irrelevant, digressing</item>
+    <item>unnecessary repetition</item>
+    <item>science of classification</item>
+    <item>belief, doctrine</item>
+    <item>weak, insubstantial</item>
+    <item>earthly, commonplace</item>
+    <item>government by priests representing a god</item>
+    <item>an actor or actress</item>
+    <item>voice tone color</item>
+    <item>long, violent speech, verbal assault</item>
+    <item>flatterer, yes-man</item>
+    <item>book, usually large and academic</item>
+    <item>lethargy, dormancy, sluggishness</item>
+    <item>a turning or twisting force</item>
+    <item>having many twists and turns, highly complex</item>
+    <item>to promote or praise energetically</item>
+    <item>obedient, yielding</item>
+    <item>act of trespassing or violating a law or rule</item>
+    <item>temporary, fleeting</item>
+    <item>partially transparent</item>
+    <item>work, especially arduous work</item>
+    <item>parody, exaggerated imitation, caricature</item>
+    <item>article treating a subject systematically and thoroughly</item>
+    <item>trembling, frugal, timid</item>
+    <item>fear and anxiety</item>
+    <item>aggressiveness, ferocity</item>
+    <item>agreement between lovest to meet, rendez-vous</item>
+    <item>swollen, distended</item>
+    <item>muddy, opaque, in a state of great confusion</item>
+    <item>swollen, pompous</item>
+    <item>serving as a guardian or protector</item>
+    <item>mysterious, strange</item>
+    <item>moving in waves</item>
+    <item>not false, genuine</item>
+    <item>indefensible</item>
+    <item>not favorable, troublesome, unruly</item>
+    <item>a practice of lending money at exorbitant rates</item>
+    <item>to waver, oscillate</item>
+    <item>empty, void, lacking intelligence</item>
+    <item>pertaining to a farewell</item>
+    <item>tasteless, dull</item>
+    <item>varied, marked with different colors</item>
+    <item>to boast, drag</item>
+    <item>mercenary, corruptible</item>
+    <item>prolonged feud marked by bitter hostility</item>
+    <item>to adore, honor, respect</item>
+    <item>truthful, accurate</item>
+    <item>wordy</item>
+    <item>dizziness</item>
+    <item>irritation, annoyance</item>
+    <item>practicable, capable of developing</item>
+    <item>vengeful, unforgiving</item>
+    <item>someone with master skills, expert musician</item>
+    <item>appearance, aspect</item>
+    <item>thick, syrupy</item>
+    <item>to impair the quality of, corrupt morally</item>
+    <item>using or containing harsh, abusive censure</item>
+    <item>dissection, surgery, or painful experiments performed on a living animal for the purpose of scientific research</item>
+    <item>prevailing fashion or practice</item>
+    <item>tending to vary frequently, fickle</item>
+    <item>whirlpool, center of turbulence</item>
+    <item>justified</item>
+    <item>careful, cautious</item>
+    <item>wallow or roll, toss about, be in turmoil</item>
+    <item>fanciful, unpredictable</item>
+    <item>vaguely longing, sadly thoughtful</item>
+    <item>one who is fanatically devoted to a cause</item>
+</string-array>
     <string name="m800">one who is fanatically devoted to a cause</string>
     <string name="G1">Group 1 (1-246)  ||  A-D</string>
     <string name="G2">Group 2 (247-441) ||  E-I</string>
